@@ -2,7 +2,7 @@ name: miEPG
 
 on:
   schedule:
-    - cron: '36 09 * * * ' # Ejecutar a las 10:35 AM  Aprox 5 minutos mas/menos
+    - cron: '30 12 * * * ' # Ejecutar a las 13:30 AM  tarda Aprox 5/10 minutos mas/menos
   workflow_dispatch:
 permissions:
    contents: write
