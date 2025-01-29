@@ -9,8 +9,8 @@ Movistar Plus+ 2 HD,Movistar Plus+ 2 HD
 M+ Vamos HD,M+ Vamos HD
 Telemadrid,Telemadrid
 CMM TV,CMM TV
-M+ Cine HD,M+ Cine HD
-M+ Series HD,M+ Series HD
+M+ Estrenos HD,M+ Estrenos HD
+M+ Hits HD,M+ Hits HD
 M+ Originales HD,M+ Originales HD
 M+ PopUp,M+ PopUp
 BOM Cine,BOM Cine
