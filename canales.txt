@@ -117,6 +117,7 @@ MTV España,MTV España
 MTV 00s,MTV 00s
 Mezzo,Mezzo
 Mezzo Live HD,Mezzo Live HD
+Classica HD,Classica HD
 Sol Música,Sol Música
 24 Horas,24 Horas
 El País,El País
@@ -132,6 +133,7 @@ ETB2,ETB2
 TVG Europa HD,TVG Europa HD
 La Otra,La Otra
 IB3 TV Illes Balears,IB3 TV Illes Balears
+Telesur HD,Telesur HD
 M+ Copa del Rey,M+ Copa del Rey
 M+ LaLiga TV 3 HD,M+ LaLiga TV 3 HD
 M+ LaLiga TV 4,M+ LaLiga TV 4
@@ -150,6 +152,7 @@ M+ Deportes 5,M+ Deportes 5
 M+ Deportes 6,M+ Deportes 6
 M+ Deportes 7,M+ Deportes 7
 M+ Deportes 8,M+ Deportes 8
+LaLiga TV BAR HD,LaLiga TV BAR HD
 FEF TV 1 Grupo 1,FEF TV 1 Grupo 1
 FEF TV 1 Grupo 2,FEF TV 1 Grupo 2
 FEF TV 2 Grupo 1,FEF TV 2 Grupo 1
