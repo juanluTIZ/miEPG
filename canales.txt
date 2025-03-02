@@ -100,6 +100,7 @@ BBC Food,BBC Food
 BBC Top Gear,BBC Top Gear
 El Garage TV,El Garage TV
 Inquietos atresplayer,Inquietos atresplayer
+Equipo de investigación,Equipo de investigación
 DKISS,DKISS
 Divinity,Divinity
 Nova,Nova
