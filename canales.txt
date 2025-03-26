@@ -166,3 +166,7 @@ FEF TV 4 Grupo 2,FEF TV 4 Grupo 2
 FEF TV 5 Grupo 1,FEF TV 5 Grupo 1
 FEF TV 5 Grupo 2,FEF TV 5 Grupo 2
 FEF TV 6 Grupo 1,FEF TV 6 Grupo 1
+Runtime Cine y Series,Runtime Cine y Series
+Runtime Series,Runtime Series
+NatureTime,NatureTime
+Red Bull TV,Red Bull TV
