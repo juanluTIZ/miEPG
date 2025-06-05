@@ -117,6 +117,12 @@ Boing,Boing
 Clan,Clan
 MTV España,MTV España
 MTV 00s,MTV 00s
+MTV 80s,MTV 80s
+MTV 90s,MTV 90s
+MTV Classic,MTV Classic
+MTV España,MTV España
+MTV Hits HD,MTV Hits HD
+MTV Live,MTV Live
 Mezzo,Mezzo
 Mezzo Live HD,Mezzo Live HD
 Classica HD,Classica HD
@@ -139,7 +145,21 @@ Telesur HD,Telesur HD
 M+ Copa del Rey,M+ Copa del Rey
 M+ LaLiga TV 3 HD,M+ LaLiga TV 3 HD
 M+ LaLiga TV 4,M+ LaLiga TV 4
+M+ LaLiga TV 5,M+ LaLiga TV 5
+M+ LaLiga TV 6,M+ LaLiga TV 6
+DAZN LaLiga 3,DAZN LaLiga 3
+DAZN LaLiga 4,DAZN LaLiga 4
+DAZN LaLiga 5,DAZN LaLiga 5
 LaLiga TV Hypermotion 3,LaLiga TV Hypermotion 3
+LaLiga TV Hypermotion 4,LaLiga TV Hypermotion 4
+LaLiga TV Hypermotion 5,LaLiga TV Hypermotion 5
+LaLiga TV Hypermotion 6,LaLiga TV Hypermotion 6
+LaLiga TV Hypermotion 7,LaLiga TV Hypermotion 7
+LaLiga TV Hypermotion 8,LaLiga TV Hypermotion 8
+LaLiga TV Hypermotion 9,LaLiga TV Hypermotion 9
+LaLiga TV Hypermotion 10,LaLiga TV Hypermotion 10
+LaLiga TV Hypermotion 11,LaLiga TV Hypermotion 11
+LaLiga TV Hypermotion 12,LaLiga TV Hypermotion 12
 M+ Liga de Campeones 4,M+ Liga de Campeones 4
 M+ Liga de Campeones 5,M+ Liga de Campeones 5
 M+ Liga de Campeones 6,M+ Liga de Campeones 6
