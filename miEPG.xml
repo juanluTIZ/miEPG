@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 16/08/2025 10:25" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 16/08/2025 11:36" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="La 1 HD">
     <display-name>La 1 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
@@ -187,7 +187,7 @@
   </programme>
   <programme start="20250816192000 +0200" stop="20250816210000 +0200" channel="La 1 HD">
     <title lang="es">Búsqueme a esa chica</title>
-    <desc lang="es">Cine,Comedia | 1964 | TP | *6.2/10
+    <desc lang="es">Cine,Comedia | 1964 | TP | *6/10
 · Marisol es una chica de 16 años que, junto a su padre, se gana la vida como artista callejera gracias a los turistas extranjeros que acuden a Mallorca.
 · País: España
 · Dirección: Fernando Palacios.
@@ -1089,7 +1089,7 @@
   </programme>
   <programme start="20250816103500 +0200" stop="20250816110300 +0200" channel="La 2">
     <title lang="es">Pipper en ruta T1 · Cáceres</title>
-    <desc lang="es">Ocio y Aficiones,Viajes | 2022 | TP
+    <desc lang="es">Ocio y Aficiones,Viajes | 2022 | TP | *2/10
 · Pipper, el perro viajero, visita Cáceres con un reto: ayudar al refugio de la ciudad. Lo hará colaborando en una acción muy especial en la que participan una fábrica de cerveza artesanal, varios perros adoptados y voluntarios del refugio.
 · País: España
 · Presenta: Pablo Muñoz Gabilondo.
@@ -1097,7 +1097,7 @@
   </programme>
   <programme start="20250816110300 +0200" stop="20250816113000 +0200" channel="La 2">
     <title lang="es">Pipper en ruta T1 · Mallorca</title>
-    <desc lang="es">Ocio y Aficiones,Viajes | 2022 | TP
+    <desc lang="es">Ocio y Aficiones,Viajes | 2022 | TP | *2/10
 · Pipper, el perro influencer, navega rumbo a Mallorca en su camarote mientras Pablo busca nuevas maneras de mejorar su complicidad. ¿Hasta qué punto nos entienden los perros y nosotros a ellos? En la isla conocerán la respuesta.
 · País: España
 · Presenta: Pablo Muñoz Gabilondo.
@@ -6996,7 +6996,7 @@
   </programme>
   <programme start="20250816210000 +0200" stop="20250816233000 +0200" channel="Movistar Plus+ HD">
     <title lang="es">DIRECTO Semifinales: Sinner - Atmane T2025 · Torneo de Cincinnati</title>
-    <desc lang="es">Deportes,Tenis | 2025 | TP | *5/10
+    <desc lang="es">Deportes,Tenis | 2025 | TP | *6/10
 · Los Masters 1000 son los torneos más importantes después de los Grand Slam y forman parte del ATP Tour. Se celebran en Norteamérica, Europa y Asia y se juegan en pista rápida y tierra batida. El Campeón consigue 1000 puntos para el ranking ATP.
 </desc>
   </programme>
@@ -7117,7 +7117,7 @@
   </programme>
   <programme start="20250817172000 +0200" stop="20250817193000 +0200" channel="Movistar Plus+ HD">
     <title lang="es">DIRECTO Jornada 1: Manchester Utd. - Arsenal T25/26 · Premier League</title>
-    <desc lang="es">Deportes,Fútbol | 2025 | TP | *7.6/10
+    <desc lang="es">Deportes,Fútbol | 2025 | *7.6/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premie, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: R.U.</desc>
   </programme>
@@ -8243,7 +8243,7 @@
   </programme>
   <programme start="20250816132900 +0200" stop="20250816160000 +0200" channel="M+ Vamos HD">
     <title lang="es">Torneo de Cincinnati T2025 · Cuartos de Final: Rublev - Alcaraz</title>
-    <desc lang="es">Deportes,Tenis | 2025 | TP | *8.2/10
+    <desc lang="es">Deportes,Tenis | 2025 | TP | *8/10
 · Los Masters 1000 son los torneos más importantes después de los Grand Slam y forman parte del ATP Tour. Se celebran en Norteamérica, Europa y Asia y se juegan en pista rápida y tierra batida. El Campeón consigue 1000 puntos para el ranking ATP.
 </desc>
   </programme>
@@ -8320,7 +8320,7 @@
   </programme>
   <programme start="20250817085000 +0200" stop="20250817105000 +0200" channel="M+ Vamos HD">
     <title lang="es">DIRECTO Semifinales: Sinner - Atmane T2025 · Torneo de Cincinnati</title>
-    <desc lang="es">Deportes,Tenis | 2025 | TP | *5/10
+    <desc lang="es">Deportes,Tenis | 2025 | TP | *6/10
 · Los Masters 1000 son los torneos más importantes después de los Grand Slam y forman parte del ATP Tour. Se celebran en Norteamérica, Europa y Asia y se juegan en pista rápida y tierra batida. El Campeón consigue 1000 puntos para el ranking ATP.
 </desc>
   </programme>
@@ -8368,7 +8368,7 @@
   </programme>
   <programme start="20250817195000 +0200" stop="20250817214500 +0200" channel="M+ Vamos HD">
     <title lang="es">DIRECTO Semifinales: Sinner - Atmane T2025 · Torneo de Cincinnati</title>
-    <desc lang="es">Deportes,Tenis | 2025 | TP | *5/10
+    <desc lang="es">Deportes,Tenis | 2025 | TP | *6/10
 · Los Masters 1000 son los torneos más importantes después de los Grand Slam y forman parte del ATP Tour. Se celebran en Norteamérica, Europa y Asia y se juegan en pista rápida y tierra batida. El Campeón consigue 1000 puntos para el ranking ATP.
 </desc>
   </programme>
@@ -8395,7 +8395,7 @@
   </programme>
   <programme start="20250818024500 +0200" stop="20250818043000 +0200" channel="M+ Vamos HD">
     <title lang="es">DIRECTO Jornada 1: Manchester Utd. - Arsenal T25/26 · Premier League</title>
-    <desc lang="es">Deportes,Fútbol | 2025 | TP | *7.6/10
+    <desc lang="es">Deportes,Fútbol | 2025 | *7.6/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premie, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: R.U.</desc>
   </programme>
@@ -8439,7 +8439,7 @@
   </programme>
   <programme start="20250818123000 +0200" stop="20250818141500 +0200" channel="M+ Vamos HD">
     <title lang="es">DIRECTO Jornada 1: Manchester Utd. - Arsenal T25/26 · Premier League</title>
-    <desc lang="es">Deportes,Fútbol | 2025 | TP | *7.6/10
+    <desc lang="es">Deportes,Fútbol | 2025 | *7.6/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premie, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: R.U.</desc>
   </programme>
@@ -8520,7 +8520,7 @@
   </programme>
   <programme start="20250819053500 +0200" stop="20250819072000 +0200" channel="M+ Vamos HD">
     <title lang="es">DIRECTO Jornada 1: Manchester Utd. - Arsenal T25/26 · Premier League</title>
-    <desc lang="es">Deportes,Fútbol | 2025 | TP | *7.6/10
+    <desc lang="es">Deportes,Fútbol | 2025 | *7.6/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premie, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: R.U.</desc>
   </programme>
@@ -9451,7 +9451,7 @@
   </programme>
   <programme start="20250817231100 +0200" stop="20250818000700 +0200" channel="Telemadrid">
     <title lang="es">Descubriendo Madrid</title>
-    <desc lang="es">Ocio y Aficiones,Viajes | 2025 | TP
+    <desc lang="es">Ocio y Aficiones,Viajes | 2025 | TP | *4/10
 · Silvia Jato nos acompaña a descubrir lugares con historia, establecimientos centenarios o entresijos de la ciudad de Madrid.
 · País: España</desc>
   </programme>
@@ -17367,7 +17367,7 @@
   </programme>
   <programme start="20250817141300 +0200" stop="20250817150600 +0200" channel="M+ Documentales HD">
     <title lang="es">Mamíferos: En el frío</title>
-    <desc lang="es">Documentales,Naturaleza | 2024 | TP | *6/10
+    <desc lang="es">Documentales,Naturaleza | 2024 | TP | *6.2/10
 · Gracias a su gran ingenio, combinado con un grueso abrigo de piel, los mamíferos, como el oso polar, pueden sobrevivir donde ningún otro animal puede, en el frío de los mundos helados extremos del planeta.
 · País: R.U.
 · Dirección: Daniel Rasmussen.
