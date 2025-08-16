@@ -4,27 +4,3 @@ Antena 3 HD,Antena 3 HD
 Cuatro HD,Cuatro HD
 Telecinco HD,Telecinco HD
 La Sexta HD,La Sexta HD
-Movistar Plus+ HD,Movistar Plus+ HD
-Movistar Plus+ 2 HD,Movistar Plus+ 2 HD
-M+ Vamos HD,M+ Vamos HD
-Telemadrid,Telemadrid
-CMM TV,CMM TV
-M+ Estrenos HD,M+ Estrenos HD
-M+ Hits HD,M+ Hits HD
-M+ Originales HD,M+ Originales HD
-M+ PopUp,M+ PopUp
-BOM Cine,BOM Cine
-M+ Documentales HD,M+ Documentales HD
-M+ PopUp 2,M+ PopUp 2
-La Resistencia 24H,La Resistencia 24H
-M+ Clásicos HD,M+ Clásicos HD
-M+ Acción HD,M+ Acción HD
-M+ Comedia HD,M+ Comedia HD
-M+ Drama HD,M+ Drama HD
-BBC Drama,BBC Drama
-M+ Indie HD,M+ Indie HD
-M+ Cine Español,M+ Cine Español
-Squirrel TV,Squirrel TV
-Clásicos atresplayer,Clásicos atresplayer
-SkyShowtime,SkyShowtime
-Max Avances,Max Avances
