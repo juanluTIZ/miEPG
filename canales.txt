@@ -4,3 +4,160 @@ Antena 3 HD,Antena 3 HD
 Cuatro HD,Cuatro HD
 Telecinco HD,Telecinco HD
 La Sexta HD,La Sexta HD
+Movistar Plus+ HD,Movistar Plus+ HD
+Movistar Plus+ 2 HD,Movistar Plus+ 2 HD
+M+ Vamos HD,M+ Vamos HD
+Telemadrid,Telemadrid
+CMM TV,CMM TV
+M+ Cine HD,M+ Cine HD
+M+ Series HD,M+ Series HD
+M+ Originales HD,M+ Originales HD
+M+ PopUp,M+ PopUp
+BOM Cine,BOM Cine
+M+ Documentales HD,M+ Documentales HD
+M+ PopUp 2,M+ PopUp 2
+La Resistencia 24H,La Resistencia 24H
+M+ Clásicos HD,M+ Clásicos HD
+M+ Acción HD,M+ Acción HD
+M+ Comedia HD,M+ Comedia HD
+M+ Drama HD,M+ Drama HD
+BBC Drama,BBC Drama
+M+ Indie HD,M+ Indie HD
+M+ Cine Español,M+ Cine Español
+Squirrel TV,Squirrel TV
+Clásicos atresplayer,Clásicos atresplayer
+Max Avances,Max Avances
+TCM HD,TCM HD
+Canal Hollywood HD,Canal Hollywood HD
+XTRM,XTRM
+Sundance TV,Sundance TV
+DARK,DARK
+Somos,Somos
+Paramount Network,Paramount Network
+Be Mad,Be Mad
+STAR Channel HD,STAR Channel HD
+AXN HD,AXN HD
+Warner TV HD,Warner TV HD
+Comedy Central HD,Comedy Central HD
+Calle 13 HD,Calle 13 HD
+Cosmo HD,Cosmo HD
+SyFy HD,SyFy HD
+AMC HD,AMC HD
+AXN Movies HD,AXN Movies HD
+TRECE,TRECE
+Energy,Energy
+Factoría de Ficción,Factoría de Ficción
+Neox,Neox
+Atreseries,Atreseries
+Esport 3,Esport 3
+M+ Vamos HD,M+ Vamos HD
+M+ LaLiga TV HD,M+ LaLiga TV HD
+DAZN LaLiga HD,DAZN LaLiga HD
+LaLiga TV Hypermotion HD,LaLiga TV Hypermotion HD
+M+ LaLiga TV 2 HD,M+ LaLiga TV 2 HD
+DAZN LaLiga 2 HD,DAZN LaLiga 2 HD
+LaLiga TV Hypermotion 2,LaLiga TV Hypermotion 2
+M+ Liga de Campeones HD,M+ Liga de Campeones HD
+M+ Liga de Campeones 2 HD,M+ Liga de Campeones 2 HD
+M+ Liga de Campeones 3 HD,M+ Liga de Campeones 3 HD
+M+ Deportes HD,M+ Deportes HD
+M+ Deportes 2 HD,M+ Deportes 2 HD
+M+ Deportes 3,M+ Deportes 3
+M+ Ellas Vamos HD,M+ Ellas Vamos HD
+M+ Golf HD,M+ Golf HD
+M+ Golf 2 HD,M+ Golf 2 HD
+DAZN F1 HD,DAZN F1 HD
+DAZN 1 HD,DAZN 1 HD
+DAZN 2 HD,DAZN 2 HD
+DAZN 3 HD,DAZN 3 HD
+DAZN 4 HD,DAZN 4 HD
+Eurosport 1 HD,Eurosport 1 HD
+Eurosport 2,Eurosport 2
+GOL PLAY,GOL PLAY
+Teledeporte,Teledeporte
+Real Madrid TV,Real Madrid TV
+Onetoro,Onetoro
+Cazavisión,Cazavisión
+Caza y Pesca HD,Caza y Pesca HD
+National Geographic HD,National Geographic HD
+Nat Geo Wild HD,Nat Geo Wild HD
+Historia,Historia
+Discovery,Discovery
+Odisea,Odisea
+Nautical Channel,Nautical Channel
+Iberalia TV,Iberalia TV
+Iberalia caza,Iberalia caza
+Iberalia pesca,Iberalia pesca
+Torolé TV,Torolé TV
+DMAX,DMAX
+AMC Crime,AMC Crime
+AMC Break,AMC Break
+BuenViaje,BuenViaje
+Canal Cocina,Canal Cocina
+Decasa,Decasa
+BBC History,BBC History
+BBC Food,BBC Food
+BBC Top Gear,BBC Top Gear
+El Garage TV,El Garage TV
+Inquietos atresplayer,Inquietos atresplayer
+DKISS,DKISS
+Divinity,Divinity
+Nova,Nova
+Mega,Mega
+Ten,Ten
+Enfamilia,Enfamilia
+Baby TV,Baby TV
+Disney Junior,Disney Junior
+Nick JR,Nick JR
+Nickelodeon HD,Nickelodeon HD
+Dreamworks HD,Dreamworks HD
+Boing,Boing
+Clan,Clan
+MTV España,MTV España
+MTV 00s,MTV 00s
+Mezzo,Mezzo
+Mezzo Live HD,Mezzo Live HD
+Sol Música,Sol Música
+24 Horas,24 Horas
+El País,El País
+El Confidencial,El Confidencial
+El Toro TV,El Toro TV
+Canal Sur HD,Canal Sur HD
+TV Canaria,TV Canaria
+TV3CAT Catalunya,TV3CAT Catalunya
+Aragón TV Internacional,Aragón TV Internacional
+Canal Extremadura SAT,Canal Extremadura SAT
+ETB1,ETB1
+ETB2,ETB2
+TVG Europa HD,TVG Europa HD
+La Otra,La Otra
+IB3 TV Illes Balears,IB3 TV Illes Balears
+M+ Copa del Rey,M+ Copa del Rey
+M+ LaLiga TV 3 HD,M+ LaLiga TV 3 HD
+M+ LaLiga TV 4,M+ LaLiga TV 4
+LaLiga TV Hypermotion 3,LaLiga TV Hypermotion 3
+M+ Liga de Campeones 4,M+ Liga de Campeones 4
+M+ Liga de Campeones 5,M+ Liga de Campeones 5
+M+ Liga de Campeones 6,M+ Liga de Campeones 6
+M+ Liga de Campeones 7,M+ Liga de Campeones 7
+M+ Liga de Campeones 8,M+ Liga de Campeones 8
+M+ Liga de Campeones 9,M+ Liga de Campeones 9
+M+ Liga de Campeones 10,M+ Liga de Campeones 10
+M+ Liga de Campeones 11,M+ Liga de Campeones 11
+M+ Liga de Campeones 12,M+ Liga de Campeones 12
+M+ Deportes 4,M+ Deportes 4
+M+ Deportes 5,M+ Deportes 5
+M+ Deportes 6,M+ Deportes 6
+M+ Deportes 7,M+ Deportes 7
+M+ Deportes 8,M+ Deportes 8
+FEF TV 1 Grupo 1,FEF TV 1 Grupo 1
+FEF TV 1 Grupo 2,FEF TV 1 Grupo 2
+FEF TV 2 Grupo 1,FEF TV 2 Grupo 1
+FEF TV 2 Grupo 2,FEF TV 2 Grupo 2
+FEF TV 3 Grupo 1,FEF TV 3 Grupo 1
+FEF TV 3 Grupo 2,FEF TV 3 Grupo 2
+FEF TV 4 Grupo 1,FEF TV 4 Grupo 1
+FEF TV 4 Grupo 2,FEF TV 4 Grupo 2
+FEF TV 5 Grupo 1,FEF TV 5 Grupo 1
+FEF TV 5 Grupo 2,FEF TV 5 Grupo 2
+FEF TV 6 Grupo 1,FEF TV 6 Grupo 1
