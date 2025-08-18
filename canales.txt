@@ -161,3 +161,5 @@ FEF TV 4 Grupo 2,FEF TV 4 Grupo 2
 FEF TV 5 Grupo 1,FEF TV 5 Grupo 1
 FEF TV 5 Grupo 2,FEF TV 5 Grupo 2
 FEF TV 6 Grupo 1,FEF TV 6 Grupo 1
+NFL Network,NFL Network
+Veo7,Veo7
