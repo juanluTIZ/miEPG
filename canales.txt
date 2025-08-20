@@ -26,7 +26,8 @@ M+ Indie HD,M+ Indie HD
 M+ Cine Español,M+ Cine Español
 Squirrel TV,Squirrel TV
 Clásicos atresplayer,Clásicos atresplayer
-Max Avances,Max Avances
+HBO Max Avances,HBO Max Avances
+SkyShowtime,SkyShowtime
 TCM HD,TCM HD
 Canal Hollywood HD,Canal Hollywood HD
 XTRM,XTRM
