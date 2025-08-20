@@ -86,6 +86,9 @@ Historia,Historia
 Discovery,Discovery
 Odisea,Odisea
 Nautical Channel,Nautical Channel
+Red Bull TV,Red Bull TV
+Tennis Channel,Tennis Channel
+Náutica TV,Náutica TV
 Iberalia TV,Iberalia TV
 Iberalia caza,Iberalia caza
 Iberalia pesca,Iberalia pesca
