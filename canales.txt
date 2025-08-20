@@ -98,7 +98,7 @@ Decasa,Decasa
 BBC History,BBC History
 BBC Food,BBC Food
 BBC Top Gear,BBC Top Gear
-El Garage TV,El Garage TV
+Garage TV,Garage TV
 Inquietos atresplayer,Inquietos atresplayer
 DKISS,DKISS
 Divinity,Divinity
