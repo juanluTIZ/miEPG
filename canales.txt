@@ -109,7 +109,7 @@ Divinity,Divinity
 Nova,Nova
 Mega,Mega
 Ten,Ten
-Enfamilia,Enfamilia
+En Familia (Rakuten TV),En Familia (Rakuten TV)
 Baby TV,Baby TV
 Disney Junior,Disney Junior
 Nick JR,Nick JR
