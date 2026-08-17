@@ -5,6 +5,7 @@ Cuatro HD,Cuatro HD
 Telecinco HD,Telecinco HD
 La Sexta HD,La Sexta HD
 Movistar Plus+ HD,Movistar Plus+ HD
+Movistar Plus HD,Movistar Plus HD
 Movistar Plus+ 2 HD,Movistar Plus+ 2 HD
 M+ Vamos HD,M+ Vamos HD
 Telemadrid,Telemadrid
