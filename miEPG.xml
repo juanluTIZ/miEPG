@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 18/08/2026 09:07" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 18/08/2026 10:42" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="La 1">
     <display-name>La 1</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
@@ -364,6 +364,16 @@
     <display-name>Aragón TV Internacional</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arag%C3%B3n%20TV%20Internacional.png" />
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arag%C3%B3n%20TV%20Internacional.png" />
+  </channel>
+  <channel id="Onda Cádiz TV">
+    <display-name>Onda Cádiz TV</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onda%20C%C3%A1diz%20TV.png" />
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onda%20C%C3%A1diz%20TV.png" />
+  </channel>
+  <channel id="Popular TV Cantabria">
+    <display-name>Popular TV Cantabria</display-name>
+    <icon src="https://populartvcantabria.com/wp-content/uploads/2022/10/cropped-logo-popular-horizontal-300x125.png" />
+		<icon src="https://populartvcantabria.com/wp-content/uploads/2022/10/cropped-logo-popular-horizontal-300x125.png" />
   </channel>
   <channel id="À Punt">
     <display-name>À Punt</display-name>
@@ -123772,6 +123782,874 @@
 	<programme start="20260824184500 +0200" stop="20260825000000 +0200" channel="Aragón TV Internacional">
     <title>Aragón TV Int</title>
     <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260818023000 +0200" stop="20260818030000 +0200" channel="Onda Cádiz TV">
+    <title>Noticias Cádiz 2ª edición</title>
+    <desc>· Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+	</programme>
+	<programme start="20260818030000 +0200" stop="20260818033000 +0200" channel="Onda Cádiz TV">
+    <title>El submarino amarillo</title>
+    <desc>· Programa diario de Onda Cádiz dedicado íntegramente al Cádiz C.F. De lunes a viernes ofrece toda la actualidad del club: seguimiento de entrenamientos, entrevistas, análisis de partidos y las últimas noticias del primer equipo. La cantera, la afición y todo lo que rodea al conjunto gaditano también tienen su espacio en este referente informativo para los seguidores cadistas.</desc>
+	</programme>
+	<programme start="20260818033000 +0200" stop="20260818043000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Info</title>
+    <desc>· Magazine matinal, presentado por Miguel Velasco y Macarena Jiménez, que ofrece noticias, tertulias, entrevistas, sociedad, cine, moda y música, entre otros asuntos de la comunidad. Todo un referente en las mañanas gaditanas.</desc>
+	</programme>
+	<programme start="20260818043000 +0200" stop="20260818053000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Social</title>
+    <desc>· Espacio de entretenimiento en directo, dedicado a la actualidad y eventos destacados en la ciudad. Música, moda, espectáculos, flamenco, gastronomía, asociaciones y entidades solidarias visitarán nuestro plató para compartir sus proyectos. Asómense al Mirador Magazine para descubrir Cádiz y su faceta más artística y cultural.</desc>
+	</programme>
+	<programme start="20260818053000 +0200" stop="20260818073000 +0200" channel="Onda Cádiz TV">
+    <title>Canal noticias Youtube</title>
+    <desc>· Las imágenes de las webcams turísticas de la ciudad como telón de fondo de la información diaria.</desc>
+	</programme>
+	<programme start="20260818073000 +0200" stop="20260818080000 +0200" channel="Onda Cádiz TV">
+    <title>Noticias Cádiz 2ª edición</title>
+    <desc>· Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+	</programme>
+	<programme start="20260818080000 +0200" stop="20260818090000 +0200" channel="Onda Cádiz TV">
+    <title>Zona Historia</title>
+    <desc>· La Historia de Cádiz de la mano de Salvador Santos.</desc>
+	</programme>
+	<programme start="20260818090000 +0200" stop="20260818093000 +0200" channel="Onda Cádiz TV">
+    <title>Aula Futuro</title>
+    <desc>· ¿Quién dijo que la educación tenía que ser algo aburrido?. Os vamos a demostrar que no es así. ¿Cómo?. Recorriendo todos los colegios e institutos de Cádiz y enseñándoos lo que hacen allí.</desc>
+	</programme>
+	<programme start="20260818093000 +0200" stop="20260818100000 +0200" channel="Onda Cádiz TV">
+    <title>Matinal Noticias</title>
+    <desc>· Primera toma de contacto del día con la actualidad. De lunes a viernes, a las 9 horas, la primera edición de los Servicios Informativos de Onda Cádiz toma el pulso informativo de la ciudad.</desc>
+	</programme>
+	<programme start="20260818100000 +0200" stop="20260818110000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Info</title>
+    <desc>· Magazine matinal, presentado por Miguel Velasco y Macarena Jiménez, que ofrece noticias, tertulias, entrevistas, sociedad, cine, moda y música, entre otros asuntos de la comunidad. Todo un referente en las mañanas gaditanas.</desc>
+	</programme>
+	<programme start="20260818110000 +0200" stop="20260818120000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Social</title>
+    <desc>· Espacio de entretenimiento en directo, dedicado a la actualidad y eventos destacados en la ciudad. Música, moda, espectáculos, flamenco, gastronomía, asociaciones y entidades solidarias visitarán nuestro plató para compartir sus proyectos. Asómense al Mirador Magazine para descubrir Cádiz y su faceta más artística y cultural.</desc>
+	</programme>
+	<programme start="20260818120000 +0200" stop="20260818123000 +0200" channel="Onda Cádiz TV">
+    <title>El Muelle</title>
+    <desc>· Nos hacemos eco de la actualidad informativa de la Autoridad Portuaria de la Bahía de Cádiz. Tráfico marítimo, pesca, contenedores, cruceros y otros aspectos relacionados con la economía.</desc>
+	</programme>
+	<programme start="20260818123000 +0200" stop="20260818130000 +0200" channel="Onda Cádiz TV">
+    <title>El Escaparate</title>
+    <desc>· En ''El Escaparate'' descubrimos de cerca los comercios de intramuros y extramuros, su historia y todo lo que aportan a la vida cotidiana como locales de proximidad.</desc>
+	</programme>
+	<programme start="20260818130000 +0200" stop="20260818140000 +0200" channel="Onda Cádiz TV">
+    <title>La levantá</title>
+    <desc>· Dedicado en exclusividad a la Semana Santa gaditana y todo lo relacionado con la misma. Hermandades y Cofradías, salidas procesionales, cultos y distintas actividades, son tratados en formatos de entrevistas, tertulias y reportajes. Mayte Huguet es el encargo de dar forma a este espacio televisivo.</desc>
+	</programme>
+	<programme start="20260818140000 +0200" stop="20260818143000 +0200" channel="Onda Cádiz TV">
+    <title>Historia de una calle</title>
+    <desc>· Programa dedicado a recuperar la memoria de las calles de la ciudad de Cádiz, investigando su pasado y recordando los últimos años de la mano de los vecinos que las viven y las disfrutan cada día.</desc>
+	</programme>
+	<programme start="20260818143000 +0200" stop="20260818150000 +0200" channel="Onda Cádiz TV">
+    <title>Noticias Cádiz 1ª edición</title>
+    <desc>· Toda la actualidad de Cádiz.</desc>
+	</programme>
+	<programme start="20260818150000 +0200" stop="20260818153000 +0200" channel="Onda Cádiz TV">
+    <title>El submarino amarillo</title>
+    <desc>· Programa diario de Onda Cádiz dedicado íntegramente al Cádiz C.F. De lunes a viernes ofrece toda la actualidad del club: seguimiento de entrenamientos, entrevistas, análisis de partidos y las últimas noticias del primer equipo. La cantera, la afición y todo lo que rodea al conjunto gaditano también tienen su espacio en este referente informativo para los seguidores cadistas.</desc>
+	</programme>
+	<programme start="20260818153000 +0200" stop="20260818163000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Info</title>
+    <desc>· Magazine matinal, presentado por Miguel Velasco y Macarena Jiménez, que ofrece noticias, tertulias, entrevistas, sociedad, cine, moda y música, entre otros asuntos de la comunidad. Todo un referente en las mañanas gaditanas.</desc>
+	</programme>
+	<programme start="20260818163000 +0200" stop="20260818173000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Social</title>
+    <desc>· Espacio de entretenimiento en directo, dedicado a la actualidad y eventos destacados en la ciudad. Música, moda, espectáculos, flamenco, gastronomía, asociaciones y entidades solidarias visitarán nuestro plató para compartir sus proyectos. Asómense al Mirador Magazine para descubrir Cádiz y su faceta más artística y cultural.</desc>
+	</programme>
+	<programme start="20260818173000 +0200" stop="20260818180000 +0200" channel="Onda Cádiz TV">
+    <title>Buen Provecho</title>
+    <desc>· Un programa que les invita a descubrir sabores, historias y secretos de los restaurantes y bares de Cádiz.</desc>
+	</programme>
+	<programme start="20260818180000 +0200" stop="20260818183000 +0200" channel="Onda Cádiz TV">
+    <title>Aula Futuro</title>
+    <desc>· ¿Quién dijo que la educación tenía que ser algo aburrido?. Os vamos a demostrar que no es así. ¿Cómo?. Recorriendo todos los colegios e institutos de Cádiz y enseñándoos lo que hacen allí.</desc>
+	</programme>
+	<programme start="20260818183000 +0200" stop="20260818193000 +0200" channel="Onda Cádiz TV">
+    <title>Zona Historia</title>
+    <desc>· La Historia de Cádiz de la mano de Salvador Santos.</desc>
+	</programme>
+	<programme start="20260818193000 +0200" stop="20260818203000 +0200" channel="Onda Cádiz TV">
+    <title>Más Deporte</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260818203000 +0200" stop="20260818210000 +0200" channel="Onda Cádiz TV">
+    <title>Noticias Cádiz 2ª edición</title>
+    <desc>· Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+	</programme>
+	<programme start="20260818210000 +0200" stop="20260818213000 +0200" channel="Onda Cádiz TV">
+    <title>El submarino amarillo</title>
+    <desc>· Programa diario de Onda Cádiz dedicado íntegramente al Cádiz C.F. De lunes a viernes ofrece toda la actualidad del club: seguimiento de entrenamientos, entrevistas, análisis de partidos y las últimas noticias del primer equipo. La cantera, la afición y todo lo que rodea al conjunto gaditano también tienen su espacio en este referente informativo para los seguidores cadistas.</desc>
+	</programme>
+	<programme start="20260818213000 +0200" stop="20260818223000 +0200" channel="Onda Cádiz TV">
+    <title>Haciendo Tipo</title>
+    <desc>· Onda Cádiz mantiene su apuesta por una programación de carnaval durante todo el año. Cada martes, de la mano de Mirian Peralta, un repaso a toda la actualidad de la fiesta. Pero tambien, un espacio para la reflexión y el debate. Siempre con la participación de los protagonistas: autores, componentes, artesanos, aficionados y colectivos. Sin olvidar tampoco la historia de una fiesta que aspira a ser Patrimonio Inmaterial de la Humanidad.</desc>
+	</programme>
+	<programme start="20260818223000 +0200" stop="20260819023000 +0200" channel="Onda Cádiz TV">
+    <title>Lo mejorcito de lo mejorcito 2026</title>
+    <desc>· Retransmisiones de Carnaval.</desc>
+	</programme>
+	<programme start="20260819023000 +0200" stop="20260819030000 +0200" channel="Onda Cádiz TV">
+    <title>Noticias Cádiz 2ª edición</title>
+    <desc>· Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+	</programme>
+	<programme start="20260819030000 +0200" stop="20260819033000 +0200" channel="Onda Cádiz TV">
+    <title>El submarino amarillo</title>
+    <desc>· Programa diario de Onda Cádiz dedicado íntegramente al Cádiz C.F. De lunes a viernes ofrece toda la actualidad del club: seguimiento de entrenamientos, entrevistas, análisis de partidos y las últimas noticias del primer equipo. La cantera, la afición y todo lo que rodea al conjunto gaditano también tienen su espacio en este referente informativo para los seguidores cadistas.</desc>
+	</programme>
+	<programme start="20260819033000 +0200" stop="20260819043000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Info</title>
+    <desc>· Magazine matinal, presentado por Miguel Velasco y Macarena Jiménez, que ofrece noticias, tertulias, entrevistas, sociedad, cine, moda y música, entre otros asuntos de la comunidad. Todo un referente en las mañanas gaditanas.</desc>
+	</programme>
+	<programme start="20260819043000 +0200" stop="20260819053000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Social</title>
+    <desc>· Espacio de entretenimiento en directo, dedicado a la actualidad y eventos destacados en la ciudad. Música, moda, espectáculos, flamenco, gastronomía, asociaciones y entidades solidarias visitarán nuestro plató para compartir sus proyectos. Asómense al Mirador Magazine para descubrir Cádiz y su faceta más artística y cultural.</desc>
+	</programme>
+	<programme start="20260819053000 +0200" stop="20260819073000 +0200" channel="Onda Cádiz TV">
+    <title>Canal noticias Youtube</title>
+    <desc>· Las imágenes de las webcams turísticas de la ciudad como telón de fondo de la información diaria.</desc>
+	</programme>
+	<programme start="20260819073000 +0200" stop="20260819080000 +0200" channel="Onda Cádiz TV">
+    <title>Noticias Cádiz 2ª edición</title>
+    <desc>· Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+	</programme>
+	<programme start="20260819080000 +0200" stop="20260819090000 +0200" channel="Onda Cádiz TV">
+    <title>Haciendo Tipo</title>
+    <desc>· Onda Cádiz mantiene su apuesta por una programación de carnaval durante todo el año. Cada martes, de la mano de Mirian Peralta, un repaso a toda la actualidad de la fiesta. Pero tambien, un espacio para la reflexión y el debate. Siempre con la participación de los protagonistas: autores, componentes, artesanos, aficionados y colectivos. Sin olvidar tampoco la historia de una fiesta que aspira a ser Patrimonio Inmaterial de la Humanidad.</desc>
+	</programme>
+	<programme start="20260819090000 +0200" stop="20260819093000 +0200" channel="Onda Cádiz TV">
+    <title>Miradas</title>
+    <desc>· Un altavoz social desde los feminismos y la diversidad afectivo-sexual y de género. Realizado en colaboración con la Fundación municipal de la Mujer del Ayuntamiento de Cádiz.</desc>
+	</programme>
+	<programme start="20260819093000 +0200" stop="20260819100000 +0200" channel="Onda Cádiz TV">
+    <title>Matinal Noticias</title>
+    <desc>· Primera toma de contacto del día con la actualidad. De lunes a viernes, a las 9 horas, la primera edición de los Servicios Informativos de Onda Cádiz toma el pulso informativo de la ciudad.</desc>
+	</programme>
+	<programme start="20260819100000 +0200" stop="20260819110000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Info</title>
+    <desc>· Magazine matinal, presentado por Miguel Velasco y Macarena Jiménez, que ofrece noticias, tertulias, entrevistas, sociedad, cine, moda y música, entre otros asuntos de la comunidad. Todo un referente en las mañanas gaditanas.</desc>
+	</programme>
+	<programme start="20260819110000 +0200" stop="20260819120000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Social</title>
+    <desc>· Espacio de entretenimiento en directo, dedicado a la actualidad y eventos destacados en la ciudad. Música, moda, espectáculos, flamenco, gastronomía, asociaciones y entidades solidarias visitarán nuestro plató para compartir sus proyectos. Asómense al Mirador Magazine para descubrir Cádiz y su faceta más artística y cultural.</desc>
+	</programme>
+	<programme start="20260819120000 +0200" stop="20260819130000 +0200" channel="Onda Cádiz TV">
+    <title>Más Deporte</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260819130000 +0200" stop="20260819133000 +0200" channel="Onda Cádiz TV">
+    <title>Buen Provecho</title>
+    <desc>· Un programa que les invita a descubrir sabores, historias y secretos de los restaurantes y bares de Cádiz.</desc>
+	</programme>
+	<programme start="20260819133000 +0200" stop="20260819140000 +0200" channel="Onda Cádiz TV">
+    <title>El Muelle</title>
+    <desc>· Nos hacemos eco de la actualidad informativa de la Autoridad Portuaria de la Bahía de Cádiz. Tráfico marítimo, pesca, contenedores, cruceros y otros aspectos relacionados con la economía.</desc>
+	</programme>
+	<programme start="20260819140000 +0200" stop="20260819143000 +0200" channel="Onda Cádiz TV">
+    <title>El Escaparate</title>
+    <desc>· En ''El Escaparate'' descubrimos de cerca los comercios de intramuros y extramuros, su historia y todo lo que aportan a la vida cotidiana como locales de proximidad.</desc>
+	</programme>
+	<programme start="20260819143000 +0200" stop="20260819150000 +0200" channel="Onda Cádiz TV">
+    <title>Noticias Cádiz 1ª edición</title>
+    <desc>· Toda la actualidad de Cádiz.</desc>
+	</programme>
+	<programme start="20260819150000 +0200" stop="20260819153000 +0200" channel="Onda Cádiz TV">
+    <title>El submarino amarillo</title>
+    <desc>· Programa diario de Onda Cádiz dedicado íntegramente al Cádiz C.F. De lunes a viernes ofrece toda la actualidad del club: seguimiento de entrenamientos, entrevistas, análisis de partidos y las últimas noticias del primer equipo. La cantera, la afición y todo lo que rodea al conjunto gaditano también tienen su espacio en este referente informativo para los seguidores cadistas.</desc>
+	</programme>
+	<programme start="20260819153000 +0200" stop="20260819163000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Info</title>
+    <desc>· Magazine matinal, presentado por Miguel Velasco y Macarena Jiménez, que ofrece noticias, tertulias, entrevistas, sociedad, cine, moda y música, entre otros asuntos de la comunidad. Todo un referente en las mañanas gaditanas.</desc>
+	</programme>
+	<programme start="20260819163000 +0200" stop="20260819173000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Social</title>
+    <desc>· Espacio de entretenimiento en directo, dedicado a la actualidad y eventos destacados en la ciudad. Música, moda, espectáculos, flamenco, gastronomía, asociaciones y entidades solidarias visitarán nuestro plató para compartir sus proyectos. Asómense al Mirador Magazine para descubrir Cádiz y su faceta más artística y cultural.</desc>
+	</programme>
+	<programme start="20260819173000 +0200" stop="20260819183000 +0200" channel="Onda Cádiz TV">
+    <title>Saludablemente</title>
+    <desc>· Programa divulgativo y de servicio público desde el que se abordan todos aquellos asuntos que pueden mejorar la calidad de vida de las personas, sus conocimientos en materia de salud, fomentando además la prevención y los hábitos de vida saludables. Todo ello desde el rigor, la seriedad y la responsabilidad tanto en la selección de los temas como a la hora de contar con la participación de personas expertas.</desc>
+	</programme>
+	<programme start="20260819183000 +0200" stop="20260819193000 +0200" channel="Onda Cádiz TV">
+    <title>Haciendo Tipo</title>
+    <desc>· Onda Cádiz mantiene su apuesta por una programación de carnaval durante todo el año. Cada martes, de la mano de Mirian Peralta, un repaso a toda la actualidad de la fiesta. Pero tambien, un espacio para la reflexión y el debate. Siempre con la participación de los protagonistas: autores, componentes, artesanos, aficionados y colectivos. Sin olvidar tampoco la historia de una fiesta que aspira a ser Patrimonio Inmaterial de la Humanidad.</desc>
+	</programme>
+	<programme start="20260819193000 +0200" stop="20260819200000 +0200" channel="Onda Cádiz TV">
+    <title>Aula Futuro</title>
+    <desc>· ¿Quién dijo que la educación tenía que ser algo aburrido?. Os vamos a demostrar que no es así. ¿Cómo?. Recorriendo todos los colegios e institutos de Cádiz y enseñándoos lo que hacen allí.</desc>
+	</programme>
+	<programme start="20260819200000 +0200" stop="20260819203000 +0200" channel="Onda Cádiz TV">
+    <title>El Muelle</title>
+    <desc>· Nos hacemos eco de la actualidad informativa de la Autoridad Portuaria de la Bahía de Cádiz. Tráfico marítimo, pesca, contenedores, cruceros y otros aspectos relacionados con la economía.</desc>
+	</programme>
+	<programme start="20260819203000 +0200" stop="20260819210000 +0200" channel="Onda Cádiz TV">
+    <title>Noticias Cádiz 2ª edición</title>
+    <desc>· Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+	</programme>
+	<programme start="20260819210000 +0200" stop="20260819213000 +0200" channel="Onda Cádiz TV">
+    <title>El submarino amarillo</title>
+    <desc>· Programa diario de Onda Cádiz dedicado íntegramente al Cádiz C.F. De lunes a viernes ofrece toda la actualidad del club: seguimiento de entrenamientos, entrevistas, análisis de partidos y las últimas noticias del primer equipo. La cantera, la afición y todo lo que rodea al conjunto gaditano también tienen su espacio en este referente informativo para los seguidores cadistas.</desc>
+	</programme>
+	<programme start="20260819213000 +0200" stop="20260819223000 +0200" channel="Onda Cádiz TV">
+    <title>Zona Historia</title>
+    <desc>· La Historia de Cádiz de la mano de Salvador Santos.</desc>
+	</programme>
+	<programme start="20260819223000 +0200" stop="20260820023000 +0200" channel="Onda Cádiz TV">
+    <title>Lo mejorcito de lo mejorcito 2026</title>
+    <desc>· Retransmisiones de Carnaval.</desc>
+	</programme>
+	<programme start="20260820023000 +0200" stop="20260820030000 +0200" channel="Onda Cádiz TV">
+    <title>Noticias Cádiz 2ª edición</title>
+    <desc>· Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+	</programme>
+	<programme start="20260820030000 +0200" stop="20260820033000 +0200" channel="Onda Cádiz TV">
+    <title>El submarino amarillo</title>
+    <desc>· Programa diario de Onda Cádiz dedicado íntegramente al Cádiz C.F. De lunes a viernes ofrece toda la actualidad del club: seguimiento de entrenamientos, entrevistas, análisis de partidos y las últimas noticias del primer equipo. La cantera, la afición y todo lo que rodea al conjunto gaditano también tienen su espacio en este referente informativo para los seguidores cadistas.</desc>
+	</programme>
+	<programme start="20260820033000 +0200" stop="20260820043000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Info</title>
+    <desc>· Magazine matinal, presentado por Miguel Velasco y Macarena Jiménez, que ofrece noticias, tertulias, entrevistas, sociedad, cine, moda y música, entre otros asuntos de la comunidad. Todo un referente en las mañanas gaditanas.</desc>
+	</programme>
+	<programme start="20260820043000 +0200" stop="20260820053000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Social</title>
+    <desc>· Espacio de entretenimiento en directo, dedicado a la actualidad y eventos destacados en la ciudad. Música, moda, espectáculos, flamenco, gastronomía, asociaciones y entidades solidarias visitarán nuestro plató para compartir sus proyectos. Asómense al Mirador Magazine para descubrir Cádiz y su faceta más artística y cultural.</desc>
+	</programme>
+	<programme start="20260820053000 +0200" stop="20260820073000 +0200" channel="Onda Cádiz TV">
+    <title>Canal noticias Youtube</title>
+    <desc>· Las imágenes de las webcams turísticas de la ciudad como telón de fondo de la información diaria.</desc>
+	</programme>
+	<programme start="20260820073000 +0200" stop="20260820080000 +0200" channel="Onda Cádiz TV">
+    <title>Noticias Cádiz 2ª edición</title>
+    <desc>· Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+	</programme>
+	<programme start="20260820080000 +0200" stop="20260820090000 +0200" channel="Onda Cádiz TV">
+    <title>Más Deporte</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260820090000 +0200" stop="20260820093000 +0200" channel="Onda Cádiz TV">
+    <title>El Escaparate</title>
+    <desc>· En ''El Escaparate'' descubrimos de cerca los comercios de intramuros y extramuros, su historia y todo lo que aportan a la vida cotidiana como locales de proximidad.</desc>
+	</programme>
+	<programme start="20260820093000 +0200" stop="20260820100000 +0200" channel="Onda Cádiz TV">
+    <title>Matinal Noticias</title>
+    <desc>· Primera toma de contacto del día con la actualidad. De lunes a viernes, a las 9 horas, la primera edición de los Servicios Informativos de Onda Cádiz toma el pulso informativo de la ciudad.</desc>
+	</programme>
+	<programme start="20260820100000 +0200" stop="20260820110000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Info</title>
+    <desc>· Magazine matinal, presentado por Miguel Velasco y Macarena Jiménez, que ofrece noticias, tertulias, entrevistas, sociedad, cine, moda y música, entre otros asuntos de la comunidad. Todo un referente en las mañanas gaditanas.</desc>
+	</programme>
+	<programme start="20260820110000 +0200" stop="20260820120000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Social</title>
+    <desc>· Espacio de entretenimiento en directo, dedicado a la actualidad y eventos destacados en la ciudad. Música, moda, espectáculos, flamenco, gastronomía, asociaciones y entidades solidarias visitarán nuestro plató para compartir sus proyectos. Asómense al Mirador Magazine para descubrir Cádiz y su faceta más artística y cultural.</desc>
+	</programme>
+	<programme start="20260820120000 +0200" stop="20260820130000 +0200" channel="Onda Cádiz TV">
+    <title>La levantá</title>
+    <desc>· Dedicado en exclusividad a la Semana Santa gaditana y todo lo relacionado con la misma. Hermandades y Cofradías, salidas procesionales, cultos y distintas actividades, son tratados en formatos de entrevistas, tertulias y reportajes. Mayte Huguet es el encargo de dar forma a este espacio televisivo.</desc>
+	</programme>
+	<programme start="20260820130000 +0200" stop="20260820133000 +0200" channel="Onda Cádiz TV">
+    <title>Aula Futuro</title>
+    <desc>· ¿Quién dijo que la educación tenía que ser algo aburrido?. Os vamos a demostrar que no es así. ¿Cómo?. Recorriendo todos los colegios e institutos de Cádiz y enseñándoos lo que hacen allí.</desc>
+	</programme>
+	<programme start="20260820133000 +0200" stop="20260820143000 +0200" channel="Onda Cádiz TV">
+    <title>Saludablemente</title>
+    <desc>· Programa divulgativo y de servicio público desde el que se abordan todos aquellos asuntos que pueden mejorar la calidad de vida de las personas, sus conocimientos en materia de salud, fomentando además la prevención y los hábitos de vida saludables. Todo ello desde el rigor, la seriedad y la responsabilidad tanto en la selección de los temas como a la hora de contar con la participación de personas expertas.</desc>
+	</programme>
+	<programme start="20260820143000 +0200" stop="20260820150000 +0200" channel="Onda Cádiz TV">
+    <title>Noticias Cádiz 1ª edición</title>
+    <desc>· Toda la actualidad de Cádiz.</desc>
+	</programme>
+	<programme start="20260820150000 +0200" stop="20260820153000 +0200" channel="Onda Cádiz TV">
+    <title>El submarino amarillo</title>
+    <desc>· Programa diario de Onda Cádiz dedicado íntegramente al Cádiz C.F. De lunes a viernes ofrece toda la actualidad del club: seguimiento de entrenamientos, entrevistas, análisis de partidos y las últimas noticias del primer equipo. La cantera, la afición y todo lo que rodea al conjunto gaditano también tienen su espacio en este referente informativo para los seguidores cadistas.</desc>
+	</programme>
+	<programme start="20260820153000 +0200" stop="20260820163000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Info</title>
+    <desc>· Magazine matinal, presentado por Miguel Velasco y Macarena Jiménez, que ofrece noticias, tertulias, entrevistas, sociedad, cine, moda y música, entre otros asuntos de la comunidad. Todo un referente en las mañanas gaditanas.</desc>
+	</programme>
+	<programme start="20260820163000 +0200" stop="20260820173000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Social</title>
+    <desc>· Espacio de entretenimiento en directo, dedicado a la actualidad y eventos destacados en la ciudad. Música, moda, espectáculos, flamenco, gastronomía, asociaciones y entidades solidarias visitarán nuestro plató para compartir sus proyectos. Asómense al Mirador Magazine para descubrir Cádiz y su faceta más artística y cultural.</desc>
+	</programme>
+	<programme start="20260820173000 +0200" stop="20260820180000 +0200" channel="Onda Cádiz TV">
+    <title>El Muelle</title>
+    <desc>· Nos hacemos eco de la actualidad informativa de la Autoridad Portuaria de la Bahía de Cádiz. Tráfico marítimo, pesca, contenedores, cruceros y otros aspectos relacionados con la economía.</desc>
+	</programme>
+	<programme start="20260820180000 +0200" stop="20260820190000 +0200" channel="Onda Cádiz TV">
+    <title>Zona Historia</title>
+    <desc>· La Historia de Cádiz de la mano de Salvador Santos.</desc>
+	</programme>
+	<programme start="20260820190000 +0200" stop="20260820193000 +0200" channel="Onda Cádiz TV">
+    <title>Historia de una calle</title>
+    <desc>· Programa dedicado a recuperar la memoria de las calles de la ciudad de Cádiz, investigando su pasado y recordando los últimos años de la mano de los vecinos que las viven y las disfrutan cada día.</desc>
+	</programme>
+	<programme start="20260820193000 +0200" stop="20260820200000 +0200" channel="Onda Cádiz TV">
+    <title>Miradas</title>
+    <desc>· Un altavoz social desde los feminismos y la diversidad afectivo-sexual y de género. Realizado en colaboración con la Fundación municipal de la Mujer del Ayuntamiento de Cádiz.</desc>
+	</programme>
+	<programme start="20260820200000 +0200" stop="20260820203000 +0200" channel="Onda Cádiz TV">
+    <title>El Escaparate</title>
+    <desc>· En ''El Escaparate'' descubrimos de cerca los comercios de intramuros y extramuros, su historia y todo lo que aportan a la vida cotidiana como locales de proximidad.</desc>
+	</programme>
+	<programme start="20260820203000 +0200" stop="20260820210000 +0200" channel="Onda Cádiz TV">
+    <title>Noticias Cádiz 2ª edición</title>
+    <desc>· Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+	</programme>
+	<programme start="20260820210000 +0200" stop="20260820213000 +0200" channel="Onda Cádiz TV">
+    <title>El submarino amarillo</title>
+    <desc>· Programa diario de Onda Cádiz dedicado íntegramente al Cádiz C.F. De lunes a viernes ofrece toda la actualidad del club: seguimiento de entrenamientos, entrevistas, análisis de partidos y las últimas noticias del primer equipo. La cantera, la afición y todo lo que rodea al conjunto gaditano también tienen su espacio en este referente informativo para los seguidores cadistas.</desc>
+	</programme>
+	<programme start="20260820213000 +0200" stop="20260820223000 +0200" channel="Onda Cádiz TV">
+    <title>Saludablemente</title>
+    <desc>· Programa divulgativo y de servicio público desde el que se abordan todos aquellos asuntos que pueden mejorar la calidad de vida de las personas, sus conocimientos en materia de salud, fomentando además la prevención y los hábitos de vida saludables. Todo ello desde el rigor, la seriedad y la responsabilidad tanto en la selección de los temas como a la hora de contar con la participación de personas expertas.</desc>
+	</programme>
+	<programme start="20260820223000 +0200" stop="20260821023000 +0200" channel="Onda Cádiz TV">
+    <title>Lo mejorcito de lo mejorcito 2026</title>
+    <desc>· Retransmisiones de Carnaval.</desc>
+	</programme>
+	<programme start="20260821023000 +0200" stop="20260821030000 +0200" channel="Onda Cádiz TV">
+    <title>Noticias Cádiz 2ª edición</title>
+    <desc>· Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+	</programme>
+	<programme start="20260821030000 +0200" stop="20260821033000 +0200" channel="Onda Cádiz TV">
+    <title>El submarino amarillo</title>
+    <desc>· Programa diario de Onda Cádiz dedicado íntegramente al Cádiz C.F. De lunes a viernes ofrece toda la actualidad del club: seguimiento de entrenamientos, entrevistas, análisis de partidos y las últimas noticias del primer equipo. La cantera, la afición y todo lo que rodea al conjunto gaditano también tienen su espacio en este referente informativo para los seguidores cadistas.</desc>
+	</programme>
+	<programme start="20260821033000 +0200" stop="20260821043000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Info</title>
+    <desc>· Magazine matinal, presentado por Miguel Velasco y Macarena Jiménez, que ofrece noticias, tertulias, entrevistas, sociedad, cine, moda y música, entre otros asuntos de la comunidad. Todo un referente en las mañanas gaditanas.</desc>
+	</programme>
+	<programme start="20260821043000 +0200" stop="20260821053000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Social</title>
+    <desc>· Espacio de entretenimiento en directo, dedicado a la actualidad y eventos destacados en la ciudad. Música, moda, espectáculos, flamenco, gastronomía, asociaciones y entidades solidarias visitarán nuestro plató para compartir sus proyectos. Asómense al Mirador Magazine para descubrir Cádiz y su faceta más artística y cultural.</desc>
+	</programme>
+	<programme start="20260821053000 +0200" stop="20260821073000 +0200" channel="Onda Cádiz TV">
+    <title>Canal noticias Youtube</title>
+    <desc>· Las imágenes de las webcams turísticas de la ciudad como telón de fondo de la información diaria.</desc>
+	</programme>
+	<programme start="20260821073000 +0200" stop="20260821080000 +0200" channel="Onda Cádiz TV">
+    <title>Noticias Cádiz 2ª edición</title>
+    <desc>· Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+	</programme>
+	<programme start="20260821080000 +0200" stop="20260821090000 +0200" channel="Onda Cádiz TV">
+    <title>La levantá</title>
+    <desc>· Dedicado en exclusividad a la Semana Santa gaditana y todo lo relacionado con la misma. Hermandades y Cofradías, salidas procesionales, cultos y distintas actividades, son tratados en formatos de entrevistas, tertulias y reportajes. Mayte Huguet es el encargo de dar forma a este espacio televisivo.</desc>
+	</programme>
+	<programme start="20260821090000 +0200" stop="20260821093000 +0200" channel="Onda Cádiz TV">
+    <title>Historia de una calle</title>
+    <desc>· Programa dedicado a recuperar la memoria de las calles de la ciudad de Cádiz, investigando su pasado y recordando los últimos años de la mano de los vecinos que las viven y las disfrutan cada día.</desc>
+	</programme>
+	<programme start="20260821093000 +0200" stop="20260821100000 +0200" channel="Onda Cádiz TV">
+    <title>Matinal Noticias</title>
+    <desc>· Primera toma de contacto del día con la actualidad. De lunes a viernes, a las 9 horas, la primera edición de los Servicios Informativos de Onda Cádiz toma el pulso informativo de la ciudad.</desc>
+	</programme>
+	<programme start="20260821100000 +0200" stop="20260821110000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Info</title>
+    <desc>· Magazine matinal, presentado por Miguel Velasco y Macarena Jiménez, que ofrece noticias, tertulias, entrevistas, sociedad, cine, moda y música, entre otros asuntos de la comunidad. Todo un referente en las mañanas gaditanas.</desc>
+	</programme>
+	<programme start="20260821110000 +0200" stop="20260821120000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Social</title>
+    <desc>· Espacio de entretenimiento en directo, dedicado a la actualidad y eventos destacados en la ciudad. Música, moda, espectáculos, flamenco, gastronomía, asociaciones y entidades solidarias visitarán nuestro plató para compartir sus proyectos. Asómense al Mirador Magazine para descubrir Cádiz y su faceta más artística y cultural.</desc>
+	</programme>
+	<programme start="20260821120000 +0200" stop="20260821123000 +0200" channel="Onda Cádiz TV">
+    <title>Buen Provecho</title>
+    <desc>· Un programa que les invita a descubrir sabores, historias y secretos de los restaurantes y bares de Cádiz.</desc>
+	</programme>
+	<programme start="20260821123000 +0200" stop="20260821130000 +0200" channel="Onda Cádiz TV">
+    <title>El Muelle</title>
+    <desc>· Nos hacemos eco de la actualidad informativa de la Autoridad Portuaria de la Bahía de Cádiz. Tráfico marítimo, pesca, contenedores, cruceros y otros aspectos relacionados con la economía.</desc>
+	</programme>
+	<programme start="20260821130000 +0200" stop="20260821133000 +0200" channel="Onda Cádiz TV">
+    <title>El Escaparate</title>
+    <desc>· En ''El Escaparate'' descubrimos de cerca los comercios de intramuros y extramuros, su historia y todo lo que aportan a la vida cotidiana como locales de proximidad.</desc>
+	</programme>
+	<programme start="20260821133000 +0200" stop="20260821143000 +0200" channel="Onda Cádiz TV">
+    <title>Haciendo Tipo</title>
+    <desc>· Onda Cádiz mantiene su apuesta por una programación de carnaval durante todo el año. Cada martes, de la mano de Mirian Peralta, un repaso a toda la actualidad de la fiesta. Pero tambien, un espacio para la reflexión y el debate. Siempre con la participación de los protagonistas: autores, componentes, artesanos, aficionados y colectivos. Sin olvidar tampoco la historia de una fiesta que aspira a ser Patrimonio Inmaterial de la Humanidad.</desc>
+	</programme>
+	<programme start="20260821143000 +0200" stop="20260821150000 +0200" channel="Onda Cádiz TV">
+    <title>Noticias Cádiz 1ª edición</title>
+    <desc>· Toda la actualidad de Cádiz.</desc>
+	</programme>
+	<programme start="20260821150000 +0200" stop="20260821153000 +0200" channel="Onda Cádiz TV">
+    <title>El submarino amarillo</title>
+    <desc>· Programa diario de Onda Cádiz dedicado íntegramente al Cádiz C.F. De lunes a viernes ofrece toda la actualidad del club: seguimiento de entrenamientos, entrevistas, análisis de partidos y las últimas noticias del primer equipo. La cantera, la afición y todo lo que rodea al conjunto gaditano también tienen su espacio en este referente informativo para los seguidores cadistas.</desc>
+	</programme>
+	<programme start="20260821153000 +0200" stop="20260821163000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Info</title>
+    <desc>· Magazine matinal, presentado por Miguel Velasco y Macarena Jiménez, que ofrece noticias, tertulias, entrevistas, sociedad, cine, moda y música, entre otros asuntos de la comunidad. Todo un referente en las mañanas gaditanas.</desc>
+	</programme>
+	<programme start="20260821163000 +0200" stop="20260821173000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Social</title>
+    <desc>· Espacio de entretenimiento en directo, dedicado a la actualidad y eventos destacados en la ciudad. Música, moda, espectáculos, flamenco, gastronomía, asociaciones y entidades solidarias visitarán nuestro plató para compartir sus proyectos. Asómense al Mirador Magazine para descubrir Cádiz y su faceta más artística y cultural.</desc>
+	</programme>
+	<programme start="20260821173000 +0200" stop="20260821183000 +0200" channel="Onda Cádiz TV">
+    <title>Más Deporte</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260821183000 +0200" stop="20260821193000 +0200" channel="Onda Cádiz TV">
+    <title>Saludablemente</title>
+    <desc>· Programa divulgativo y de servicio público desde el que se abordan todos aquellos asuntos que pueden mejorar la calidad de vida de las personas, sus conocimientos en materia de salud, fomentando además la prevención y los hábitos de vida saludables. Todo ello desde el rigor, la seriedad y la responsabilidad tanto en la selección de los temas como a la hora de contar con la participación de personas expertas.</desc>
+	</programme>
+	<programme start="20260821193000 +0200" stop="20260821203000 +0200" channel="Onda Cádiz TV">
+    <title>Zona Historia</title>
+    <desc>· La Historia de Cádiz de la mano de Salvador Santos.</desc>
+	</programme>
+	<programme start="20260821203000 +0200" stop="20260821210000 +0200" channel="Onda Cádiz TV">
+    <title>Noticias Cádiz 2ª edición</title>
+    <desc>· Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+	</programme>
+	<programme start="20260821210000 +0200" stop="20260821213000 +0200" channel="Onda Cádiz TV">
+    <title>El submarino amarillo</title>
+    <desc>· Programa diario de Onda Cádiz dedicado íntegramente al Cádiz C.F. De lunes a viernes ofrece toda la actualidad del club: seguimiento de entrenamientos, entrevistas, análisis de partidos y las últimas noticias del primer equipo. La cantera, la afición y todo lo que rodea al conjunto gaditano también tienen su espacio en este referente informativo para los seguidores cadistas.</desc>
+	</programme>
+	<programme start="20260821213000 +0200" stop="20260821220000 +0200" channel="Onda Cádiz TV">
+    <title>Buen Provecho</title>
+    <desc>· Un programa que les invita a descubrir sabores, historias y secretos de los restaurantes y bares de Cádiz.</desc>
+	</programme>
+	<programme start="20260821220000 +0200" stop="20260821223000 +0200" channel="Onda Cádiz TV">
+    <title>El Muelle</title>
+    <desc>· Nos hacemos eco de la actualidad informativa de la Autoridad Portuaria de la Bahía de Cádiz. Tráfico marítimo, pesca, contenedores, cruceros y otros aspectos relacionados con la economía.</desc>
+	</programme>
+	<programme start="20260821223000 +0200" stop="20260822023000 +0200" channel="Onda Cádiz TV">
+    <title>Lo mejorcito de lo mejorcito 2026</title>
+    <desc>· Retransmisiones de Carnaval.</desc>
+	</programme>
+	<programme start="20260822023000 +0200" stop="20260822030000 +0200" channel="Onda Cádiz TV">
+    <title>Noticias Cádiz 2ª edición</title>
+    <desc>· Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+	</programme>
+	<programme start="20260822030000 +0200" stop="20260822033000 +0200" channel="Onda Cádiz TV">
+    <title>El submarino amarillo</title>
+    <desc>· Programa diario de Onda Cádiz dedicado íntegramente al Cádiz C.F. De lunes a viernes ofrece toda la actualidad del club: seguimiento de entrenamientos, entrevistas, análisis de partidos y las últimas noticias del primer equipo. La cantera, la afición y todo lo que rodea al conjunto gaditano también tienen su espacio en este referente informativo para los seguidores cadistas.</desc>
+	</programme>
+	<programme start="20260822033000 +0200" stop="20260822043000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Info</title>
+    <desc>· Magazine matinal, presentado por Miguel Velasco y Macarena Jiménez, que ofrece noticias, tertulias, entrevistas, sociedad, cine, moda y música, entre otros asuntos de la comunidad. Todo un referente en las mañanas gaditanas.</desc>
+	</programme>
+	<programme start="20260822043000 +0200" stop="20260822053000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Social</title>
+    <desc>· Espacio de entretenimiento en directo, dedicado a la actualidad y eventos destacados en la ciudad. Música, moda, espectáculos, flamenco, gastronomía, asociaciones y entidades solidarias visitarán nuestro plató para compartir sus proyectos. Asómense al Mirador Magazine para descubrir Cádiz y su faceta más artística y cultural.</desc>
+	</programme>
+	<programme start="20260822053000 +0200" stop="20260822073000 +0200" channel="Onda Cádiz TV">
+    <title>Canal noticias Youtube</title>
+    <desc>· Las imágenes de las webcams turísticas de la ciudad como telón de fondo de la información diaria.</desc>
+	</programme>
+	<programme start="20260822073000 +0200" stop="20260822080000 +0200" channel="Onda Cádiz TV">
+    <title>Noticias Cádiz 2ª edición</title>
+    <desc>· Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+	</programme>
+	<programme start="20260822080000 +0200" stop="20260822083000 +0200" channel="Onda Cádiz TV">
+    <title>Aula Futuro</title>
+    <desc>· ¿Quién dijo que la educación tenía que ser algo aburrido?. Os vamos a demostrar que no es así. ¿Cómo?. Recorriendo todos los colegios e institutos de Cádiz y enseñándoos lo que hacen allí.</desc>
+	</programme>
+	<programme start="20260822083000 +0200" stop="20260822093000 +0200" channel="Onda Cádiz TV">
+    <title>Más Deporte</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260822093000 +0200" stop="20260822110000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Info</title>
+    <desc>· Magazine matinal, presentado por Miguel Velasco y Macarena Jiménez, que ofrece noticias, tertulias, entrevistas, sociedad, cine, moda y música, entre otros asuntos de la comunidad. Todo un referente en las mañanas gaditanas.</desc>
+	</programme>
+	<programme start="20260822110000 +0200" stop="20260822123000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Social</title>
+    <desc>· Espacio de entretenimiento en directo, dedicado a la actualidad y eventos destacados en la ciudad. Música, moda, espectáculos, flamenco, gastronomía, asociaciones y entidades solidarias visitarán nuestro plató para compartir sus proyectos. Asómense al Mirador Magazine para descubrir Cádiz y su faceta más artística y cultural.</desc>
+	</programme>
+	<programme start="20260822123000 +0200" stop="20260822133000 +0200" channel="Onda Cádiz TV">
+    <title>La levantá</title>
+    <desc>· Dedicado en exclusividad a la Semana Santa gaditana y todo lo relacionado con la misma. Hermandades y Cofradías, salidas procesionales, cultos y distintas actividades, son tratados en formatos de entrevistas, tertulias y reportajes. Mayte Huguet es el encargo de dar forma a este espacio televisivo.</desc>
+	</programme>
+	<programme start="20260822133000 +0200" stop="20260822143000 +0200" channel="Onda Cádiz TV">
+    <title>Noticias cinco días</title>
+    <desc>· Informativo especial de fin de semana con el resumen de lunes a viernes.</desc>
+	</programme>
+	<programme start="20260822143000 +0200" stop="20260822150000 +0200" channel="Onda Cádiz TV">
+    <title>El submarino amarillo</title>
+    <desc>· Programa diario de Onda Cádiz dedicado íntegramente al Cádiz C.F. De lunes a viernes ofrece toda la actualidad del club: seguimiento de entrenamientos, entrevistas, análisis de partidos y las últimas noticias del primer equipo. La cantera, la afición y todo lo que rodea al conjunto gaditano también tienen su espacio en este referente informativo para los seguidores cadistas.</desc>
+	</programme>
+	<programme start="20260822150000 +0200" stop="20260822160000 +0200" channel="Onda Cádiz TV">
+    <title>Saludablemente</title>
+    <desc>· Programa divulgativo y de servicio público desde el que se abordan todos aquellos asuntos que pueden mejorar la calidad de vida de las personas, sus conocimientos en materia de salud, fomentando además la prevención y los hábitos de vida saludables. Todo ello desde el rigor, la seriedad y la responsabilidad tanto en la selección de los temas como a la hora de contar con la participación de personas expertas.</desc>
+	</programme>
+	<programme start="20260822160000 +0200" stop="20260822170000 +0200" channel="Onda Cádiz TV">
+    <title>Haciendo Tipo</title>
+    <desc>· Onda Cádiz mantiene su apuesta por una programación de carnaval durante todo el año. Cada martes, de la mano de Mirian Peralta, un repaso a toda la actualidad de la fiesta. Pero tambien, un espacio para la reflexión y el debate. Siempre con la participación de los protagonistas: autores, componentes, artesanos, aficionados y colectivos. Sin olvidar tampoco la historia de una fiesta que aspira a ser Patrimonio Inmaterial de la Humanidad.</desc>
+	</programme>
+	<programme start="20260822170000 +0200" stop="20260822180000 +0200" channel="Onda Cádiz TV">
+    <title>Más Deporte</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260822180000 +0200" stop="20260822183000 +0200" channel="Onda Cádiz TV">
+    <title>Miradas</title>
+    <desc>· Un altavoz social desde los feminismos y la diversidad afectivo-sexual y de género. Realizado en colaboración con la Fundación municipal de la Mujer del Ayuntamiento de Cádiz.</desc>
+	</programme>
+	<programme start="20260822183000 +0200" stop="20260822190000 +0200" channel="Onda Cádiz TV">
+    <title>Buen Provecho</title>
+    <desc>· Un programa que les invita a descubrir sabores, historias y secretos de los restaurantes y bares de Cádiz.</desc>
+	</programme>
+	<programme start="20260822190000 +0200" stop="20260822193000 +0200" channel="Onda Cádiz TV">
+    <title>Historia de una calle</title>
+    <desc>· Programa dedicado a recuperar la memoria de las calles de la ciudad de Cádiz, investigando su pasado y recordando los últimos años de la mano de los vecinos que las viven y las disfrutan cada día.</desc>
+	</programme>
+	<programme start="20260822193000 +0200" stop="20260822200000 +0200" channel="Onda Cádiz TV">
+    <title>Aula Futuro</title>
+    <desc>· ¿Quién dijo que la educación tenía que ser algo aburrido?. Os vamos a demostrar que no es así. ¿Cómo?. Recorriendo todos los colegios e institutos de Cádiz y enseñándoos lo que hacen allí.</desc>
+	</programme>
+	<programme start="20260822200000 +0200" stop="20260822203000 +0200" channel="Onda Cádiz TV">
+    <title>El Muelle</title>
+    <desc>· Nos hacemos eco de la actualidad informativa de la Autoridad Portuaria de la Bahía de Cádiz. Tráfico marítimo, pesca, contenedores, cruceros y otros aspectos relacionados con la economía.</desc>
+	</programme>
+	<programme start="20260822203000 +0200" stop="20260822213000 +0200" channel="Onda Cádiz TV">
+    <title>Zona Historia</title>
+    <desc>· La Historia de Cádiz de la mano de Salvador Santos.</desc>
+	</programme>
+	<programme start="20260822213000 +0200" stop="20260822223000 +0200" channel="Onda Cádiz TV">
+    <title>Noticias cinco días</title>
+    <desc>· Informativo especial de fin de semana con el resumen de lunes a viernes.</desc>
+	</programme>
+	<programme start="20260822223000 +0200" stop="20260823023000 +0200" channel="Onda Cádiz TV">
+    <title>Lo mejorcito de lo mejorcito 2026</title>
+    <desc>· Retransmisiones de Carnaval.</desc>
+	</programme>
+	<programme start="20260823023000 +0200" stop="20260823040000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Info</title>
+    <desc>· Magazine matinal, presentado por Miguel Velasco y Macarena Jiménez, que ofrece noticias, tertulias, entrevistas, sociedad, cine, moda y música, entre otros asuntos de la comunidad. Todo un referente en las mañanas gaditanas.</desc>
+	</programme>
+	<programme start="20260823040000 +0200" stop="20260823053000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Social</title>
+    <desc>· Espacio de entretenimiento en directo, dedicado a la actualidad y eventos destacados en la ciudad. Música, moda, espectáculos, flamenco, gastronomía, asociaciones y entidades solidarias visitarán nuestro plató para compartir sus proyectos. Asómense al Mirador Magazine para descubrir Cádiz y su faceta más artística y cultural.</desc>
+	</programme>
+	<programme start="20260823053000 +0200" stop="20260823073000 +0200" channel="Onda Cádiz TV">
+    <title>Canal noticias Youtube</title>
+    <desc>· Las imágenes de las webcams turísticas de la ciudad como telón de fondo de la información diaria.</desc>
+	</programme>
+	<programme start="20260823073000 +0200" stop="20260823083000 +0200" channel="Onda Cádiz TV">
+    <title>Noticias cinco días</title>
+    <desc>· Informativo especial de fin de semana con el resumen de lunes a viernes.</desc>
+	</programme>
+	<programme start="20260823083000 +0200" stop="20260823093000 +0200" channel="Onda Cádiz TV">
+    <title>La levantá</title>
+    <desc>· Dedicado en exclusividad a la Semana Santa gaditana y todo lo relacionado con la misma. Hermandades y Cofradías, salidas procesionales, cultos y distintas actividades, son tratados en formatos de entrevistas, tertulias y reportajes. Mayte Huguet es el encargo de dar forma a este espacio televisivo.</desc>
+	</programme>
+	<programme start="20260823093000 +0200" stop="20260823110000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Info</title>
+    <desc>· Magazine matinal, presentado por Miguel Velasco y Macarena Jiménez, que ofrece noticias, tertulias, entrevistas, sociedad, cine, moda y música, entre otros asuntos de la comunidad. Todo un referente en las mañanas gaditanas.</desc>
+	</programme>
+	<programme start="20260823110000 +0200" stop="20260823123000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Social</title>
+    <desc>· Espacio de entretenimiento en directo, dedicado a la actualidad y eventos destacados en la ciudad. Música, moda, espectáculos, flamenco, gastronomía, asociaciones y entidades solidarias visitarán nuestro plató para compartir sus proyectos. Asómense al Mirador Magazine para descubrir Cádiz y su faceta más artística y cultural.</desc>
+	</programme>
+	<programme start="20260823123000 +0200" stop="20260823130000 +0200" channel="Onda Cádiz TV">
+    <title>Aula Futuro</title>
+    <desc>· ¿Quién dijo que la educación tenía que ser algo aburrido?. Os vamos a demostrar que no es así. ¿Cómo?. Recorriendo todos los colegios e institutos de Cádiz y enseñándoos lo que hacen allí.</desc>
+	</programme>
+	<programme start="20260823130000 +0200" stop="20260823133000 +0200" channel="Onda Cádiz TV">
+    <title>El Escaparate</title>
+    <desc>· En ''El Escaparate'' descubrimos de cerca los comercios de intramuros y extramuros, su historia y todo lo que aportan a la vida cotidiana como locales de proximidad.</desc>
+	</programme>
+	<programme start="20260823133000 +0200" stop="20260823143000 +0200" channel="Onda Cádiz TV">
+    <title>Noticias cinco días</title>
+    <desc>· Informativo especial de fin de semana con el resumen de lunes a viernes.</desc>
+	</programme>
+	<programme start="20260823143000 +0200" stop="20260823150000 +0200" channel="Onda Cádiz TV">
+    <title>El Muelle</title>
+    <desc>· Nos hacemos eco de la actualidad informativa de la Autoridad Portuaria de la Bahía de Cádiz. Tráfico marítimo, pesca, contenedores, cruceros y otros aspectos relacionados con la economía.</desc>
+	</programme>
+	<programme start="20260823150000 +0200" stop="20260823160000 +0200" channel="Onda Cádiz TV">
+    <title>Más Deporte</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260823160000 +0200" stop="20260823163000 +0200" channel="Onda Cádiz TV">
+    <title>Buen Provecho</title>
+    <desc>· Un programa que les invita a descubrir sabores, historias y secretos de los restaurantes y bares de Cádiz.</desc>
+	</programme>
+	<programme start="20260823163000 +0200" stop="20260823170000 +0200" channel="Onda Cádiz TV">
+    <title>Aula Futuro</title>
+    <desc>· ¿Quién dijo que la educación tenía que ser algo aburrido?. Os vamos a demostrar que no es así. ¿Cómo?. Recorriendo todos los colegios e institutos de Cádiz y enseñándoos lo que hacen allí.</desc>
+	</programme>
+	<programme start="20260823170000 +0200" stop="20260823173000 +0200" channel="Onda Cádiz TV">
+    <title>Miradas</title>
+    <desc>· Un altavoz social desde los feminismos y la diversidad afectivo-sexual y de género. Realizado en colaboración con la Fundación municipal de la Mujer del Ayuntamiento de Cádiz.</desc>
+	</programme>
+	<programme start="20260823173000 +0200" stop="20260823183000 +0200" channel="Onda Cádiz TV">
+    <title>Saludablemente</title>
+    <desc>· Programa divulgativo y de servicio público desde el que se abordan todos aquellos asuntos que pueden mejorar la calidad de vida de las personas, sus conocimientos en materia de salud, fomentando además la prevención y los hábitos de vida saludables. Todo ello desde el rigor, la seriedad y la responsabilidad tanto en la selección de los temas como a la hora de contar con la participación de personas expertas.</desc>
+	</programme>
+	<programme start="20260823183000 +0200" stop="20260823193000 +0200" channel="Onda Cádiz TV">
+    <title>Zona Historia</title>
+    <desc>· La Historia de Cádiz de la mano de Salvador Santos.</desc>
+	</programme>
+	<programme start="20260823193000 +0200" stop="20260823200000 +0200" channel="Onda Cádiz TV">
+    <title>El Escaparate</title>
+    <desc>· En ''El Escaparate'' descubrimos de cerca los comercios de intramuros y extramuros, su historia y todo lo que aportan a la vida cotidiana como locales de proximidad.</desc>
+	</programme>
+	<programme start="20260823200000 +0200" stop="20260823203000 +0200" channel="Onda Cádiz TV">
+    <title>Historia de una calle</title>
+    <desc>· Programa dedicado a recuperar la memoria de las calles de la ciudad de Cádiz, investigando su pasado y recordando los últimos años de la mano de los vecinos que las viven y las disfrutan cada día.</desc>
+	</programme>
+	<programme start="20260823203000 +0200" stop="20260823213000 +0200" channel="Onda Cádiz TV">
+    <title>La levantá</title>
+    <desc>· Dedicado en exclusividad a la Semana Santa gaditana y todo lo relacionado con la misma. Hermandades y Cofradías, salidas procesionales, cultos y distintas actividades, son tratados en formatos de entrevistas, tertulias y reportajes. Mayte Huguet es el encargo de dar forma a este espacio televisivo.</desc>
+	</programme>
+	<programme start="20260823213000 +0200" stop="20260823223000 +0200" channel="Onda Cádiz TV">
+    <title>Noticias cinco días</title>
+    <desc>· Informativo especial de fin de semana con el resumen de lunes a viernes.</desc>
+	</programme>
+	<programme start="20260823223000 +0200" stop="20260823233000 +0200" channel="Onda Cádiz TV">
+    <title>Lo mejorcito de lo mejorcito 2026</title>
+    <desc>· Retransmisiones de Carnaval.</desc>
+	</programme>
+	<programme start="20260823233000 +0200" stop="20260824030000 +0200" channel="Onda Cádiz TV">
+    <title>Saludablemente</title>
+    <desc>· Programa divulgativo y de servicio público desde el que se abordan todos aquellos asuntos que pueden mejorar la calidad de vida de las personas, sus conocimientos en materia de salud, fomentando además la prevención y los hábitos de vida saludables. Todo ello desde el rigor, la seriedad y la responsabilidad tanto en la selección de los temas como a la hora de contar con la participación de personas expertas.</desc>
+	</programme>
+	<programme start="20260824030000 +0200" stop="20260824043000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Social</title>
+    <desc>· Espacio de entretenimiento en directo, dedicado a la actualidad y eventos destacados en la ciudad. Música, moda, espectáculos, flamenco, gastronomía, asociaciones y entidades solidarias visitarán nuestro plató para compartir sus proyectos. Asómense al Mirador Magazine para descubrir Cádiz y su faceta más artística y cultural.</desc>
+	</programme>
+	<programme start="20260824043000 +0200" stop="20260824073000 +0200" channel="Onda Cádiz TV">
+    <title>Canal noticias Youtube</title>
+    <desc>· Las imágenes de las webcams turísticas de la ciudad como telón de fondo de la información diaria.</desc>
+	</programme>
+	<programme start="20260824073000 +0200" stop="20260824083000 +0200" channel="Onda Cádiz TV">
+    <title>Noticias cinco días</title>
+    <desc>· Informativo especial de fin de semana con el resumen de lunes a viernes.</desc>
+	</programme>
+	<programme start="20260824083000 +0200" stop="20260824090000 +0200" channel="Onda Cádiz TV">
+    <title>Miradas</title>
+    <desc>· Un altavoz social desde los feminismos y la diversidad afectivo-sexual y de género. Realizado en colaboración con la Fundación municipal de la Mujer del Ayuntamiento de Cádiz.</desc>
+	</programme>
+	<programme start="20260824090000 +0200" stop="20260824093000 +0200" channel="Onda Cádiz TV">
+    <title>El Muelle</title>
+    <desc>· Nos hacemos eco de la actualidad informativa de la Autoridad Portuaria de la Bahía de Cádiz. Tráfico marítimo, pesca, contenedores, cruceros y otros aspectos relacionados con la economía.</desc>
+	</programme>
+	<programme start="20260824093000 +0200" stop="20260824100000 +0200" channel="Onda Cádiz TV">
+    <title>Matinal Noticias</title>
+    <desc>· Primera toma de contacto del día con la actualidad. De lunes a viernes, a las 9 horas, la primera edición de los Servicios Informativos de Onda Cádiz toma el pulso informativo de la ciudad.</desc>
+	</programme>
+	<programme start="20260824100000 +0200" stop="20260824110000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Info</title>
+    <desc>· Magazine matinal, presentado por Miguel Velasco y Macarena Jiménez, que ofrece noticias, tertulias, entrevistas, sociedad, cine, moda y música, entre otros asuntos de la comunidad. Todo un referente en las mañanas gaditanas.</desc>
+	</programme>
+	<programme start="20260824110000 +0200" stop="20260824120000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Social</title>
+    <desc>· Espacio de entretenimiento en directo, dedicado a la actualidad y eventos destacados en la ciudad. Música, moda, espectáculos, flamenco, gastronomía, asociaciones y entidades solidarias visitarán nuestro plató para compartir sus proyectos. Asómense al Mirador Magazine para descubrir Cádiz y su faceta más artística y cultural.</desc>
+	</programme>
+	<programme start="20260824120000 +0200" stop="20260824130000 +0200" channel="Onda Cádiz TV">
+    <title>Saludablemente</title>
+    <desc>· Programa divulgativo y de servicio público desde el que se abordan todos aquellos asuntos que pueden mejorar la calidad de vida de las personas, sus conocimientos en materia de salud, fomentando además la prevención y los hábitos de vida saludables. Todo ello desde el rigor, la seriedad y la responsabilidad tanto en la selección de los temas como a la hora de contar con la participación de personas expertas.</desc>
+	</programme>
+	<programme start="20260824130000 +0200" stop="20260824140000 +0200" channel="Onda Cádiz TV">
+    <title>Zona Historia</title>
+    <desc>· La Historia de Cádiz de la mano de Salvador Santos.</desc>
+	</programme>
+	<programme start="20260824140000 +0200" stop="20260824143000 +0200" channel="Onda Cádiz TV">
+    <title>Aula Futuro</title>
+    <desc>· ¿Quién dijo que la educación tenía que ser algo aburrido?. Os vamos a demostrar que no es así. ¿Cómo?. Recorriendo todos los colegios e institutos de Cádiz y enseñándoos lo que hacen allí.</desc>
+	</programme>
+	<programme start="20260824143000 +0200" stop="20260824150000 +0200" channel="Onda Cádiz TV">
+    <title>Noticias Cádiz 1ª edición</title>
+    <desc>· Toda la actualidad de Cádiz.</desc>
+	</programme>
+	<programme start="20260824150000 +0200" stop="20260824153000 +0200" channel="Onda Cádiz TV">
+    <title>El Escaparate</title>
+    <desc>· En ''El Escaparate'' descubrimos de cerca los comercios de intramuros y extramuros, su historia y todo lo que aportan a la vida cotidiana como locales de proximidad.</desc>
+	</programme>
+	<programme start="20260824153000 +0200" stop="20260824163000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Info</title>
+    <desc>· Magazine matinal, presentado por Miguel Velasco y Macarena Jiménez, que ofrece noticias, tertulias, entrevistas, sociedad, cine, moda y música, entre otros asuntos de la comunidad. Todo un referente en las mañanas gaditanas.</desc>
+	</programme>
+	<programme start="20260824163000 +0200" stop="20260824173000 +0200" channel="Onda Cádiz TV">
+    <title>El Mirador _ Social</title>
+    <desc>· Espacio de entretenimiento en directo, dedicado a la actualidad y eventos destacados en la ciudad. Música, moda, espectáculos, flamenco, gastronomía, asociaciones y entidades solidarias visitarán nuestro plató para compartir sus proyectos. Asómense al Mirador Magazine para descubrir Cádiz y su faceta más artística y cultural.</desc>
+	</programme>
+	<programme start="20260824173000 +0200" stop="20260824183000 +0200" channel="Onda Cádiz TV">
+    <title>La levantá</title>
+    <desc>· Dedicado en exclusividad a la Semana Santa gaditana y todo lo relacionado con la misma. Hermandades y Cofradías, salidas procesionales, cultos y distintas actividades, son tratados en formatos de entrevistas, tertulias y reportajes. Mayte Huguet es el encargo de dar forma a este espacio televisivo.</desc>
+	</programme>
+	<programme start="20260824183000 +0200" stop="20260824190000 +0200" channel="Onda Cádiz TV">
+    <title>Buen Provecho</title>
+    <desc>· Un programa que les invita a descubrir sabores, historias y secretos de los restaurantes y bares de Cádiz.</desc>
+	</programme>
+	<programme start="20260824190000 +0200" stop="20260824193000 +0200" channel="Onda Cádiz TV">
+    <title>Miradas</title>
+    <desc>· Un altavoz social desde los feminismos y la diversidad afectivo-sexual y de género. Realizado en colaboración con la Fundación municipal de la Mujer del Ayuntamiento de Cádiz.</desc>
+	</programme>
+	<programme start="20260824193000 +0200" stop="20260824200000 +0200" channel="Onda Cádiz TV">
+    <title>El Muelle</title>
+    <desc>· Nos hacemos eco de la actualidad informativa de la Autoridad Portuaria de la Bahía de Cádiz. Tráfico marítimo, pesca, contenedores, cruceros y otros aspectos relacionados con la economía.</desc>
+	</programme>
+	<programme start="20260824200000 +0200" stop="20260824203000 +0200" channel="Onda Cádiz TV">
+    <title>Historia de una calle</title>
+    <desc>· Programa dedicado a recuperar la memoria de las calles de la ciudad de Cádiz, investigando su pasado y recordando los últimos años de la mano de los vecinos que las viven y las disfrutan cada día.</desc>
+	</programme>
+	<programme start="20260824203000 +0200" stop="20260824210000 +0200" channel="Onda Cádiz TV">
+    <title>Noticias Cádiz 2ª edición</title>
+    <desc>· Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+	</programme>
+	<programme start="20260824210000 +0200" stop="20260824213000 +0200" channel="Onda Cádiz TV">
+    <title>El submarino amarillo</title>
+    <desc>· Programa diario de Onda Cádiz dedicado íntegramente al Cádiz C.F. De lunes a viernes ofrece toda la actualidad del club: seguimiento de entrenamientos, entrevistas, análisis de partidos y las últimas noticias del primer equipo. La cantera, la afición y todo lo que rodea al conjunto gaditano también tienen su espacio en este referente informativo para los seguidores cadistas.</desc>
+	</programme>
+	<programme start="20260824213000 +0200" stop="20260824220000 +0200" channel="Onda Cádiz TV">
+    <title>Aula Futuro</title>
+    <desc>· ¿Quién dijo que la educación tenía que ser algo aburrido?. Os vamos a demostrar que no es así. ¿Cómo?. Recorriendo todos los colegios e institutos de Cádiz y enseñándoos lo que hacen allí.</desc>
+	</programme>
+	<programme start="20260824220000 +0200" stop="20260824230000 +0200" channel="Onda Cádiz TV">
+    <title>Saludablemente</title>
+    <desc>· Programa divulgativo y de servicio público desde el que se abordan todos aquellos asuntos que pueden mejorar la calidad de vida de las personas, sus conocimientos en materia de salud, fomentando además la prevención y los hábitos de vida saludables. Todo ello desde el rigor, la seriedad y la responsabilidad tanto en la selección de los temas como a la hora de contar con la participación de personas expertas.</desc>
+	</programme>
+	<programme start="20260824230000 +0200" stop="20260824233000 +0200" channel="Onda Cádiz TV">
+    <title>Historia de una calle</title>
+    <desc>· Programa dedicado a recuperar la memoria de las calles de la ciudad de Cádiz, investigando su pasado y recordando los últimos años de la mano de los vecinos que las viven y las disfrutan cada día.</desc>
+	</programme>
+	<programme start="20260818093000 +0200" stop="20260818110000 +0200" channel="Popular TV Cantabria">
+    <title>Popular Cine: Marcelino, pan y vino (1955)</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260818110000 +0200" stop="20260818113000 +0200" channel="Popular TV Cantabria">
+    <title>Mundo natural</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260818113000 +0200" stop="20260818120000 +0200" channel="Popular TV Cantabria">
+    <title>Pulso empresarial</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260818120000 +0200" stop="20260818123000 +0200" channel="Popular TV Cantabria">
+    <title>En directo, desde la Parroquia Santa María Reparadora: Santa Misa</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260818123000 +0200" stop="20260818130000 +0200" channel="Popular TV Cantabria">
+    <title>Caminando: Acción caritativa y social en la diócesis de Santander</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260818130000 +0200" stop="20260818133000 +0200" channel="Popular TV Cantabria">
+    <title>49 o más: Francisco Pizarro, el hombre desconocido</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260818133000 +0200" stop="20260818140000 +0200" channel="Popular TV Cantabria">
+    <title>Otra Mirada: El otro partido del Racing</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260818140000 +0200" stop="20260818143000 +0200" channel="Popular TV Cantabria">
+    <title>Mundo natural</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260818143000 +0200" stop="20260818150000 +0200" channel="Popular TV Cantabria">
+    <title>Informativo PopularTV Cantabria I Edición</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260818150000 +0200" stop="20260818153000 +0200" channel="Popular TV Cantabria">
+    <title>Ganaderos en su Hábitat: Puertos de Sejos 3ª parte</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260818153000 +0200" stop="20260818173000 +0200" channel="Popular TV Cantabria">
+    <title>Documental: EL Aleteo de las mariposas (2023)</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260818173000 +0200" stop="20260818183000 +0200" channel="Popular TV Cantabria">
+    <title>Voces: Los viajes apostólicos del Papa</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260818183000 +0200" stop="20260818203000 +0200" channel="Popular TV Cantabria">
+    <title>Popular Cine: El coro (2014)</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260818203000 +0200" stop="20260818210000 +0200" channel="Popular TV Cantabria">
+    <title>Informativo PopularTV Cantabria II Edición</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260818210000 +0200" stop="20260818213000 +0200" channel="Popular TV Cantabria">
+    <title>El silencio de un pueblo: Bielva (Herrerías) 1ª parte</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260818213000 +0200" stop="20260818220000 +0200" channel="Popular TV Cantabria">
+    <title>Comprometidos: Fundación AYMY</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260818220000 +0200" stop="20260818235000 +0200" channel="Popular TV Cantabria">
+    <title>Cine Clásico: Desayuno con diamantes (1961)</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260818235000 +0200" stop="20260819091500 +0200" channel="Popular TV Cantabria">
+    <title>Ajuste de programación</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260819091500 +0200" stop="20260819110000 +0200" channel="Popular TV Cantabria">
+    <title>Popular Cine: Aventuras en la gran ciudad (1987)</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260819110000 +0200" stop="20260819113000 +0200" channel="Popular TV Cantabria">
+    <title>Mundo natural</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260819113000 +0200" stop="20260819120000 +0200" channel="Popular TV Cantabria">
+    <title>Caminando: Acción caritativa y social en la diócesis de Santander</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260819120000 +0200" stop="20260819123000 +0200" channel="Popular TV Cantabria">
+    <title>En directo, desde la Parroquia Santa María Reparadora: Santa Misa</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260819123000 +0200" stop="20260819133000 +0200" channel="Popular TV Cantabria">
+    <title>Voces: Los viajes apostólicos del Papa</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260819133000 +0200" stop="20260819140000 +0200" channel="Popular TV Cantabria">
+    <title>Comprometidos: Fundación AYMY</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260819140000 +0200" stop="20260819143000 +0200" channel="Popular TV Cantabria">
+    <title>Mundo natural</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260819143000 +0200" stop="20260819150000 +0200" channel="Popular TV Cantabria">
+    <title>Informativo PopularTV Cantabria I Edición</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260819150000 +0200" stop="20260819163000 +0200" channel="Popular TV Cantabria">
+    <title>Concierto Violincheli Brothers en Santander</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260819163000 +0200" stop="20260819170000 +0200" channel="Popular TV Cantabria">
+    <title>Pulso empresarial</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260819170000 +0200" stop="20260819173000 +0200" channel="Popular TV Cantabria">
+    <title>Otra Mirada: El otro partido del Racing</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260819173000 +0200" stop="20260819180000 +0200" channel="Popular TV Cantabria">
+    <title>49 o más: Francisco Pizarro, el hombre desconocido</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260819180000 +0200" stop="20260819183000 +0200" channel="Popular TV Cantabria">
+    <title>El silencio de un pueblo: Bielva (Herrerías) 1ª parte</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260819183000 +0200" stop="20260819203000 +0200" channel="Popular TV Cantabria">
+    <title>Popular Cine: El coro (2014)</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260819203000 +0200" stop="20260819210000 +0200" channel="Popular TV Cantabria">
+    <title>Informativo PopularTV Cantabria II Edición</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260819210000 +0200" stop="20260819213000 +0200" channel="Popular TV Cantabria">
+    <title>Familiarizando: La hazaña de ser padres</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260819213000 +0200" stop="20260819220000 +0200" channel="Popular TV Cantabria">
+    <title>Museo Diocesano Santillana del Mar</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260819220000 +0200" stop="20260819223000 +0200" channel="Popular TV Cantabria">
+    <title>Cantabria de Cerca</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260819223000 +0200" stop="20260820000500 +0200" channel="Popular TV Cantabria">
+    <title>Noche de Western: Tierras lejanas (1954)</title>
+    <desc>· Sin detalles...</desc>
 	</programme>
 	<programme start="20260818061000 +0200" stop="20260818065500 +0200" channel="À Punt">
     <title>La banda</title>
