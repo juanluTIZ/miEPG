@@ -72,8 +72,8 @@ Canal Sur Andalucía,Canal Sur Andalucía,https://raw.githubusercontent.com/davi
 TVG Europa HD,TVG Europa,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG%20Europa.png
 Canal Extremadura SAT,Canal Extremadura SAT,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Extremadura%20SAT.png
 Aragón TV Internacional,Aragón TV Internacional,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arag%C3%B3n%20TV%20Internacional.png
-Alquiler HD,Alquiler,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Alquiler.png
-Alquiler 1,Alquiler 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Alquiler%201.png
+Onda Cádiz TV,Onda Cádiz TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onda%20C%C3%A1diz%20TV.png
+Popular TV Cantabria,Popular TV Cantabria,https://populartvcantabria.com/wp-content/uploads/2022/10/cropped-logo-popular-horizontal-300x125.png
 À Punt,À Punt,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/%C3%80%20Punt.png
 Aragón TV,Aragón TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arag%C3%B3n%20TV.png
 Navarra TV,Navarra TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Navarra%20TV.png
@@ -96,6 +96,8 @@ La Ocho Mediterráneo,La Ocho Mediterráneo,https://raw.githubusercontent.com/da
 IB3 TV Illes Balears,IB3 TV Illes Balears,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/IB3%20TV%20Illes%20Balears.png
 TV Canaria,TV Canaria,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV%20Canaria.png
 Atlántico TV,Atlántico TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Atl%C3%A1ntico%20TV.png
+Alquiler HD,Alquiler,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Alquiler.png
+Alquiler 1,Alquiler 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Alquiler%201.png
 Canal RED,Canal RED,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20RED.png
 HBO Max Avances,HBO Max Avances,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/HBO%20Max%20Avances.png
 SkyShowtime,SkyShowtime,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SkyShowtime.png
