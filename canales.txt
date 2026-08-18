@@ -1,142 +1,164 @@
-La 1 HD,La 1 HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png
+# Fuente: https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml
+La 1 HD,La 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png
 La 2,La 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png
-Antena 3 HD,Antena 3 HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%203.png
-Cuatro HD,Cuatro HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro.png
-Telecinco HD,Telecinco HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecinco.png
-La Sexta HD,La Sexta HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png
-Movistar Plus+ HD,Movistar Plus+ HD,
-Movistar Plus HD,Movistar Plus HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png
-M+ Vamos HD,M+ Vamos HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png
-Telemadrid,Telemadrid,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telemadrid.png
-CMM TV,CMM TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CMM%20TV.png
-M+ Estrenos HD,M+ Estrenos HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png
-M+ Hits HD,M+ Hits HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Hits.png
-M+ Originales HD,M+ Originales HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png
-M+ PopUp,M+ PopUp,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20PopUp.png
-BOM Cine,BOM Cine,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png
-M+ Documentales HD,M+ Documentales HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png
-M+ PopUp 2,M+ PopUp 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20PopUp%202.png
-M+ Clásicos HD,M+ Clásicos HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cl%C3%A1sicos.png
-M+ Acción HD,M+ Acción HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png
-M+ Comedia HD,M+ Comedia HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png
-M+ Drama HD,M+ Drama HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama.png
-M+ Indie HD,M+ Indie HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Indie.png
+Antena 3 HD,Antena 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%203.png
+Cuatro HD,Cuatro,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro.png
+Telecinco HD,Telecinco,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecinco.png
+La Sexta HD,La Sexta,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png
+M+ Estrenos HD,M+ Estrenos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png
+M+ Hits HD,M+ Hits,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Hits.png
+M+ Originales HD,M+ Originales,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png
+M+ Vacaciones,M+ Vacaciones,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vacaciones.png
+M+ Documentales HD,M+ Documentales,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png
+M+ Orgullo,M+ Orgullo,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Orgullo.png
+M+ Clásicos HD,M+ Clásicos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cl%C3%A1sicos.png
+M+ Acción HD,M+ Acción,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png
+M+ Comedia HD,M+ Comedia,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png
+M+ Drama HD,M+ Drama,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama.png
+M+ Indie HD,M+ Indie,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Indie.png
 M+ Cine Español,M+ Cine Español,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png
-Squirrel TV,Squirrel TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%20TV.png
-Clásicos atresplayer,Clásicos atresplayer,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cl%C3%A1sicos%20atresplayer.png
+M+ PopUp,M+ PopUp,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20PopUp.png
+M+ PopUp 2,M+ PopUp 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20PopUp%202.png
 Canal FlixOlé 1,Canal FlixOlé 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20FlixOl%C3%A9%201.png
 Canal FlixOlé 2,Canal FlixOlé 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20FlixOl%C3%A9%202.png
-HBO Max Avances,HBO Max Avances,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/HBO%20Max%20Avances.png
-SkyShowtime,SkyShowtime,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SkyShowtime.png
-TCM HD,TCM HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TCM.png
-Canal Hollywood HD,Canal Hollywood HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png
-XTRM,XTRM,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/XTRM.png
-Sundance TV,Sundance TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sundance%20TV.png
-DARK,DARK,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DARK.png
-Somos,Somos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Somos.png
-Paramount Network,Paramount Network,
+TCM HD,TCM,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TCM.png
+BBC Series,BBC Series,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Series.png
+BBC Earth,BBC Earth,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Earth.png
+BBC Top Gear,BBC Top Gear,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Top%20Gear.png
+BBC Lifestyle,BBC Lifestyle,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Lifestyle.png
 Be Mad,Be Mad,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Be%20Mad.png
-STAR Channel HD,STAR Channel HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/STAR%20Channel.png
-AXN HD,AXN HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN.png
-Warner TV HD,Warner TV HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Warner%20TV.png
-Comedy Central HD,Comedy Central HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Comedy%20Central.png
-Calle 13 HD,Calle 13 HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Calle%2013.png
-Cosmo HD,Cosmo HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cosmo.png
-SyFy HD,SyFy HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SyFy.png
-AMC HD,AMC HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC.png
-AXN Movies HD,AXN Movies HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20Movies.png
-TRECE,TRECE,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRECE.png
+STAR Channel HD,STAR Channel,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/STAR%20Channel.png
+AXN HD,AXN,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN.png
+Warner TV HD,Warner TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Warner%20TV.png
+Comedy Central HD,Comedy Central,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Comedy%20Central.png
+Calle 13 HD,Calle 13,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Calle%2013.png
+Cosmo HD,Cosmo,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cosmo.png
+SyFy HD,SyFy,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SyFy.png
 Energy,Energy,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Energy.png
 Factoría de Ficción,Factoría de Ficción,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Factor%C3%ADa%20de%20Ficci%C3%B3n.png
 Neox,Neox,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png
-Atreseries,Atreseries,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Atreseries.png
-Esport 3,Esport 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Esport%203.png
-M+ Vamos HD,M+ Vamos HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png
-M+ Vamos 2,M+ Vamos 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%202.png
-M+ Vamos 3,M+ Vamos 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%203.png
-M+ LaLiga TV HD,M+ LaLiga TV HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png
-DAZN LaLiga HD,DAZN LaLiga HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png
-LaLiga TV Hypermotion HD,LaLiga TV Hypermotion HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png
-M+ LaLiga TV 2 HD,M+ LaLiga TV 2 HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202.png
-DAZN LaLiga 2 HD,DAZN LaLiga 2 HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png
-LaLiga TV Hypermotion 2,LaLiga TV Hypermotion 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png
-M+ Liga de Campeones HD,M+ Liga de Campeones HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png
-M+ Liga de Campeones 2 HD,M+ Liga de Campeones 2 HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png
-M+ Liga de Campeones 3 HD,M+ Liga de Campeones 3 HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png
-M+ Deportes HD,M+ Deportes HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png
-M+ Deportes 2 HD,M+ Deportes 2 HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png
-M+ Deportes 3,M+ Deportes 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png
-M+ Golf HD,M+ Golf HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf.png
-M+ Golf 2 HD,M+ Golf 2 HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202.png
-DAZN F1 HD,DAZN F1 HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png
-DAZN MotoGP,DAZN MotoGP,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png
-DAZN 1 HD,DAZN 1 HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png
-DAZN 2 HD,DAZN 2 HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png
-DAZN 3 HD,DAZN 3 HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png
-DAZN 4 HD,DAZN 4 HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png
-Eurosport 1 HD,Eurosport 1 HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png
-Eurosport 2,Eurosport 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png
-GOL PLAY,GOL PLAY,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GOL.png
-Teledeporte,Teledeporte,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png
-Real Madrid TV,Real Madrid TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Real%20Madrid%20TV.png
-Onetoro,Onetoro,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png
-Cazavisión,Cazavisión,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cazavisi%C3%B3n.png
-Caza y Pesca HD,Caza y Pesca HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca.png
-National Geographic HD,National Geographic HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/National%20Geographic.png
-Nat Geo Wild HD,Nat Geo Wild HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nat%20Geo%20Wild.png
-Historia,Historia,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia.png
-Discovery,Discovery,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png
-Odisea,Odisea,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Odisea.png
-Nautical Channel,Nautical Channel,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nautical%20Channel.png
-Red Bull TV,Red Bull TV,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/b03ad405-231f-44f4-90ea-5fdacaf2a06c.png
-Tennis Channel,Tennis Channel,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png
-Náutica TV,Náutica TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/N%C3%A1utica%20TV.png
+Caza y Pesca HD,Caza y Pesca,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca.png
 Iberalia TV,Iberalia TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20TV.png
-Iberalia caza,Iberalia caza,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20caza.png
-Iberalia pesca,Iberalia pesca,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20pesca.png
-Torolé TV,Torolé TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Torol%C3%A9%20TV.png
-DMAX,DMAX,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DMAX.png
-AMC Crime,AMC Crime,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png
-AMC Break,AMC Break,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Break.png
-BuenViaje,BuenViaje,
-Canal Cocina,Canal Cocina,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png
-Decasa,Decasa,
+National Geographic HD,National Geographic,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/National%20Geographic.png
+Nat Geo Wild HD,Nat Geo Wild,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nat%20Geo%20Wild.png
 BBC History,BBC History,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20History.png
+Discovery,Discovery,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png
 BBC Food,BBC Food,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Food.png
-BBC Top Gear,BBC Top Gear,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Top%20Gear.png
-Garage TV,Garage TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Garage%20TV.png
-Inquietos atresplayer,Inquietos atresplayer,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Inquietos%20atresplayer.png
-DKISS,DKISS,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DKISS.png
 Divinity,Divinity,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Divinity.png
 Nova,Nova,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nova.png
-Mega,Mega,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png
-Ten,Ten,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Ten.png
-En Familia,En Familia,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/33827624-56e3-464f-8763-9e634babe552.png
 Baby TV,Baby TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Baby%20TV.png
+Disney Channel,Disney Channel,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Disney%20Channel.png
 Nick JR,Nick JR,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nick%20JR.png
-Nickelodeon HD,Nickelodeon HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nickelodeon.png
-Dreamworks HD,Dreamworks HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dreamworks.png
+Nickelodeon HD,Nickelodeon,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nickelodeon.png
+Dreamworks HD,Dreamworks,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dreamworks.png
 Boing,Boing,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Boing.png
 Clan,Clan,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Clan.png
 MTV España,MTV España,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV%20Espa%C3%B1a.png
 Mezzo,Mezzo,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mezzo.png
-Mezzo Live HD,Mezzo Live HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mezzo%20Live.png
-Sol Música,Sol Música,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sol%20M%C3%BAsica.png
+Mezzo Live HD,Mezzo Live,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mezzo%20Live.png
+Classica HD,Classica,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Classica.png
+M+ Cero,M+ Cero,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cero.png
 24 Horas,24 Horas,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20Horas.png
-El Toro TV,El Toro TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20Toro%20TV.png
-Canal Sur HD,Canal Sur HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur.png
-TV Canaria,TV Canaria,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV%20Canaria.png
-TV3CAT Catalunya,TV3CAT Catalunya,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV3CAT%20Catalunya.png
-Aragón TV Internacional,Aragón TV Internacional,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arag%C3%B3n%20TV%20Internacional.png
+BBC World News Europe HD,BBC World News Europe,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20World%20News%20Europe.png
+CNN International Europe,CNN International Europe,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CNN%20International%20Europe.png
+Al Jazeera English HD,Al Jazeera English,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Al%20Jazeera%20English.png
+France 24 (en Francais),France 24 (en Francais),https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/France%2024%20(en%20Francais).png
+CNBC Europe HD,CNBC Europe,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CNBC%20Europe.png
+TV5 Monde Europe HD,TV5 Monde Europe,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV5%20Monde%20Europe.png
+Bloomberg TV Europe,Bloomberg TV Europe,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Bloomberg%20TV%20Europe.png
+Cubavisión Internacional HD,Cubavisión Internacional,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cubavisi%C3%B3n%20Internacional.png
+Telesur HD,Telesur,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telesur.png
+Canal Sur Andalucía,Canal Sur Andalucía,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur%20Andaluc%C3%ADa.png
+TVG Europa HD,TVG Europa,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG%20Europa.png
 Canal Extremadura SAT,Canal Extremadura SAT,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Extremadura%20SAT.png
-ETB1,ETB1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/etb1.png
-ETB2,ETB2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/etb2.png
-TVG Europa HD,TVG Europa HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG%20Europa.png
+Aragón TV Internacional,Aragón TV Internacional,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arag%C3%B3n%20TV%20Internacional.png
+Alquiler HD,Alquiler,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Alquiler.png
+Alquiler 1,Alquiler 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Alquiler%201.png
+À Punt,À Punt,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/%C3%80%20Punt.png
+Aragón TV,Aragón TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arag%C3%B3n%20TV.png
+Navarra TV,Navarra TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Navarra%20TV.png
+Navarra TV 2,Navarra TV 2,https://www.navarratelevision.es/entorno/Cabeceras/CabeceraNATV.png?20250129a
+TPA Asturias,TPA Asturias,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TPA%20Asturias.png
+CMM TV,CMM TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CMM%20TV.png
+La 7 CyL,La 7 CyL,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20CyL.png
+etb1,etb1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/etb1.png
+etb2,etb2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/etb2.png
+TVG,TVG,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG.png
+TVG2,TVG2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG2.png
+Canal Extremadura,Canal Extremadura,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Extremadura.png
+Telemadrid,Telemadrid,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telemadrid.png
 La Otra,La Otra,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Otra.png
+TV3,TV3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV3.png
+La 7 Murcia,La 7 Murcia,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20Murcia.png
+Canal Sur HD,Canal Sur,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur.png
+Andalucía TV,Andalucía TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Andaluc%C3%ADa%20TV.png
+La Ocho Mediterráneo,La Ocho Mediterráneo,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Ocho%20Mediterr%C3%A1neo.png
 IB3 TV Illes Balears,IB3 TV Illes Balears,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/IB3%20TV%20Illes%20Balears.png
-M+ LaLiga TV 3 HD,M+ LaLiga TV 3 HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%203.png
-M+ LaLiga TV 4,M+ LaLiga TV 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%204.png
-LaLiga TV Hypermotion 3,LaLiga TV Hypermotion 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png
+TV Canaria,TV Canaria,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV%20Canaria.png
+Atlántico TV,Atlántico TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Atl%C3%A1ntico%20TV.png
+Canal RED,Canal RED,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20RED.png
+HBO Max Avances,HBO Max Avances,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/HBO%20Max%20Avances.png
+SkyShowtime,SkyShowtime,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SkyShowtime.png
+AXN Movies HD,AXN Movies,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20Movies.png
+TRECE,TRECE,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRECE.png
+Atreseries,Atreseries,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Atreseries.png
+Real Madrid TV,Real Madrid TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Real%20Madrid%20TV.png
+Garage TV,Garage TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Garage%20TV.png
+UBEAT,UBEAT,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/UBEAT.png
+DMAX,DMAX,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DMAX.png
+DKISS,DKISS,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DKISS.png
+Mega,Mega,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png
+Ten,Ten,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Ten.png
+etb1ON,etb1ON,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/etb1ON.png
+etb2ON,etb2ON,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/etb2ON.png
+EuroNews,EuroNews,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/EuroNews.png
+El Toro TV,El Toro TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20Toro%20TV.png
+Negocios TV,Negocios TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Negocios%20TV.png
+CGTN Español,CGTN Español,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CGTN%20Espa%C3%B1ol.png
+CGTN Documentary,CGTN Documentary,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CGTN%20Documentary.png
+UCL,UCL,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/UCL.png
+Canal de las Estrellas,Canal de las Estrellas,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20de%20las%20Estrellas.png
+TV Chile,TV Chile,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV%20Chile.png
+Nuestra Tele Internacional,Nuestra Tele Internacional,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nuestra%20Tele%20Internacional.png
+EWTN,EWTN,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/EWTN.png
+Telemadrid Internacional,Telemadrid Internacional,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telemadrid%20Internacional.png
+SX3,SX3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SX3.png
+Esport 3,Esport 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Esport%203.png
+3CatInfo,3CatInfo,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/3CatInfo.png
+Betevé,Betevé,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Betev%C3%A9.png
+Veo7,Veo7,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Veo7.png
+Squirrel TV,Squirrel TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%20TV.png
+Movistar Plus HD,Movistar Plus,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png
+Primera Federación,Primera Federación,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Primera%20Federaci%C3%B3n.png
+M+ Vamos HD,M+ Vamos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png
+M+ LaLiga HD,M+ LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png
+DAZN LaLiga HD,DAZN LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png
+LaLiga TV Hypermotion HD,LaLiga TV Hypermotion,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png
+M+ LaLiga 2 HD,M+ LaLiga 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202.png
+DAZN LaLiga 2 HD,DAZN LaLiga 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png
+LaLiga TV Hypermotion 2,LaLiga TV Hypermotion 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png
+M+ Liga de Campeones HD,M+ Liga de Campeones,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png
+M+ Liga de Campeones 2 HD,M+ Liga de Campeones 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png
+M+ Liga de Campeones 3 HD,M+ Liga de Campeones 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png
+M+ Deportes HD,M+ Deportes,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png
+M+ Deportes 2 HD,M+ Deportes 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png
+M+ Deportes 3,M+ Deportes 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png
+M+ Baloncesto,M+ Baloncesto,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto.png
+M+ Baloncesto 2,M+ Baloncesto 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto%202.png
+M+ Baloncesto 3,M+ Baloncesto 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto%203.png
+M+ Golf HD,M+ Golf,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf.png
+M+ Golf 2 HD,M+ Golf 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202.png
+DAZN F1 HD,DAZN F1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png
+DAZN MotoGP,DAZN MotoGP,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png
+DAZN 1 HD,DAZN 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png
+DAZN 2 HD,DAZN 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png
+DAZN Baloncesto,DAZN Baloncesto,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png
+DAZN Baloncesto 2,DAZN Baloncesto 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png
+DAZN Baloncesto 3,DAZN Baloncesto 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png
+Eurosport 1 HD,Eurosport 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png
+Eurosport 2,Eurosport 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png
+GOL,GOL,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GOL.png
+Teledeporte,Teledeporte,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png
 M+ Liga de Campeones 4,M+ Liga de Campeones 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png
 M+ Liga de Campeones 5,M+ Liga de Campeones 5,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png
 M+ Liga de Campeones 6,M+ Liga de Campeones 6,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png
@@ -146,9 +168,56 @@ M+ Liga de Campeones 9,M+ Liga de Campeones 9,https://raw.githubusercontent.com/
 M+ Liga de Campeones 10,M+ Liga de Campeones 10,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2010.png
 M+ Liga de Campeones 11,M+ Liga de Campeones 11,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2011.png
 M+ Liga de Campeones 12,M+ Liga de Campeones 12,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2012.png
+M+ Liga de Campeones 13,M+ Liga de Campeones 13,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2013.png
+M+ LaLiga 3 HD,M+ LaLiga 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%203.png
+M+ LaLiga 4,M+ LaLiga 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%204.png
+M+ LaLiga 5,M+ LaLiga 5,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%205.png
+M+ LaLiga 6,M+ LaLiga 6,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%206.png
+DAZN LaLiga 3,DAZN LaLiga 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%203.png
+DAZN LaLiga 4,DAZN LaLiga 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%204.png
+DAZN LaLiga 5,DAZN LaLiga 5,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%205.png
+DAZN LaLiga 6,DAZN LaLiga 6,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%206.png
+M+ Vamos 2,M+ Vamos 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%202.png
+M+ Vamos 3,M+ Vamos 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%203.png
+LaLiga TV Hypermotion 3,LaLiga TV Hypermotion 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png
+LaLiga TV Hypermotion 4,LaLiga TV Hypermotion 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%204.png
 M+ Deportes 4,M+ Deportes 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png
 M+ Deportes 5,M+ Deportes 5,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png
 M+ Deportes 6,M+ Deportes 6,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png
 M+ Deportes 7,M+ Deportes 7,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%207.png
 M+ Deportes 8,M+ Deportes 8,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%208.png
-Primera Federación,Primera Federación,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Primera%20Federaci%C3%B3n.png
+DAZN 3 HD,DAZN 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png
+DAZN 4 HD,DAZN 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png
+M+ LaLiga HDR,M+ LaLiga HDR,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20HDR.png
+M+ LaLiga 2 HDR,M+ LaLiga 2 HDR,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202%20HDR.png
+M+ Liga de Campeones HDR,M+ Liga de Campeones HDR,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HDR.png
+M+ Liga de Campeones 2 HDR,M+ Liga de Campeones 2 HDR,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202%20HDR.png
+Eurosport 4K,Eurosport 4K,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%204K.png
+M+ Wimbledon UHD,M+ Wimbledon,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Wimbledon.png
+Vamos BAR,Vamos BAR,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vamos%20BAR.png
+Vamos BAR 2,Vamos BAR 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vamos%20BAR%202.png
+LaLiga TV BAR HD,LaLiga TV BAR,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR.png
+LaLiga TV BAR 2,LaLiga TV BAR 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR%202.png
+LaLiga TV BAR 3,LaLiga TV BAR 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR%203.png
+AMC HD,AMC,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC.png
+Canal Hollywood HD,Canal Hollywood,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png
+Somos,Somos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Somos.png
+AMC Western,AMC Western,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Western.png
+Sundance TV,Sundance TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sundance%20TV.png
+VinTV,VinTV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/VinTV.png
+DARK,DARK,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DARK.png
+XTRM,XTRM,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/XTRM.png
+Historia,Historia,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia.png
+AMC Crime,AMC Crime,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png
+Odisea,Odisea,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Odisea.png
+AMC Break,AMC Break,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Break.png
+Canal Cocina,Canal Cocina,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png
+AMC Living,AMC Living,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Living.png
+SELEKT,SELEKT,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SELEKT.png
+Sol Música,Sol Música,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sol%20M%C3%BAsica.png
+Squirrel 2,Squirrel 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%202.png
+BOM Cine,BOM Cine,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png
+Cazavisión,Cazavisión,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cazavisi%C3%B3n.png
+TR3CE,TR3CE,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TR3CE.png
+Punt 3,Punt 3,https://www.punt3.es/android-icon-192x192.png
+Onetoro,Onetoro,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png
